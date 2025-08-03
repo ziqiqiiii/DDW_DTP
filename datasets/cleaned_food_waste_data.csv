@@ -1,0 +1,1610 @@
+Type of Food,Event Type,Preparation Method,Pricing,Number of Guests,Wastage Food Amount
+Meat,Corporate,Buffet,Low,310,25
+Meat,Birthday,Buffet,High,400,40
+Vegetables,Birthday,Buffet,Low,302,27
+Meat,Birthday,Finger Food,High,491,32
+Meat,Corporate,Finger Food,Moderate,300,25
+Meat,Birthday,Buffet,Low,302,27
+Meat,Wedding,Sit-down Dinner,Low,240,20
+Meat,Wedding,Finger Food,Moderate,300,25
+Fruits,Corporate,Buffet,High,320,45
+Meat,Corporate,Finger Food,High,400,40
+Fruits,Wedding,Buffet,High,320,35
+Meat,Birthday,Buffet,Low,302,27
+Meat,Wedding,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Buffet,Low,250,10
+Fruits,Corporate,Sit-down Dinner,Low,267,24
+Meat,Wedding,Sit-down Dinner,High,350,40
+Fruits,Birthday,Finger Food,Low,300,20
+Fruits,Wedding,Sit-down Dinner,High,380,35
+Fruits,Birthday,Finger Food,Low,300,25
+Meat,Social Gathering,Buffet,Low,220,10
+Meat,Corporate,Finger Food,Moderate,220,30
+Vegetables,Corporate,Finger Food,Low,220,15
+Meat,Corporate,Sit-down Dinner,High,350,35
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Meat,Wedding,Finger Food,Moderate,320,25
+Fruits,Wedding,Finger Food,High,400,40
+Baked Goods,Corporate,Buffet,High,320,35
+Meat,Birthday,Finger Food,High,400,40
+Meat,Wedding,Sit-down Dinner,Moderate,208,22
+Meat,Birthday,Finger Food,Moderate,280,20
+Meat,Corporate,Finger Food,Moderate,380,25
+Meat,Corporate,Sit-down Dinner,Moderate,438,35
+Fruits,Corporate,Finger Food,Low,350,20
+Meat,Corporate,Finger Food,Moderate,220,15
+Fruits,Corporate,Finger Food,Moderate,220,15
+Vegetables,Social Gathering,Buffet,Low,280,20
+Meat,Corporate,Finger Food,Moderate,220,15
+Fruits,Wedding,Finger Food,High,491,32
+Fruits,Birthday,Sit-down Dinner,High,400,50
+Meat,Birthday,Sit-down Dinner,Moderate,250,20
+Meat,Corporate,Sit-down Dinner,High,300,35
+Dairy Products,Corporate,Buffet,Low,439,39
+Fruits,Corporate,Sit-down Dinner,Low,240,20
+Baked Goods,Birthday,Finger Food,Low,300,20
+Fruits,Corporate,Finger Food,Moderate,280,20
+Fruits,Wedding,Sit-down Dinner,High,350,40
+Meat,Social Gathering,Buffet,Moderate,400,30
+Fruits,Birthday,Sit-down Dinner,Low,434,36
+Fruits,Corporate,Finger Food,Moderate,300,15
+Fruits,Social Gathering,Finger Food,Low,290,27
+Dairy Products,Birthday,Finger Food,Low,300,20
+Meat,Social Gathering,Sit-down Dinner,High,320,40
+Baked Goods,Birthday,Finger Food,Moderate,320,20
+Meat,Social Gathering,Sit-down Dinner,High,400,45
+Vegetables,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Sit-down Dinner,High,380,35
+Meat,Birthday,Buffet,Moderate,380,30
+Meat,Wedding,Sit-down Dinner,High,400,50
+Meat,Birthday,Buffet,High,320,30
+Vegetables,Wedding,Finger Food,Low,280,15
+Vegetables,Birthday,Sit-down Dinner,High,320,40
+Fruits,Social Gathering,Buffet,Low,250,10
+Vegetables,Corporate,Sit-down Dinner,High,350,35
+Meat,Wedding,Sit-down Dinner,High,250,40
+Vegetables,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Birthday,Finger Food,High,450,30
+Dairy Products,Social Gathering,Buffet,Low,250,10
+Fruits,Wedding,Sit-down Dinner,Moderate,230,30
+Baked Goods,Birthday,Finger Food,Moderate,320,25
+Baked Goods,Wedding,Sit-down Dinner,Low,442,32
+Baked Goods,Birthday,Finger Food,High,250,35
+Vegetables,Social Gathering,Finger Food,High,310,35
+Fruits,Social Gathering,Buffet,High,320,30
+Dairy Products,Corporate,Finger Food,High,350,30
+Meat,Social Gathering,Sit-down Dinner,High,400,50
+Fruits,Corporate,Finger Food,High,320,35
+Vegetables,Wedding,Sit-down Dinner,High,350,35
+Meat,Social Gathering,Finger Food,Moderate,280,20
+Meat,Social Gathering,Finger Food,High,350,40
+Baked Goods,Social Gathering,Buffet,Low,302,27
+Fruits,Corporate,Sit-down Dinner,Moderate,438,35
+Baked Goods,Corporate,Finger Food,High,310,35
+Dairy Products,Social Gathering,Buffet,High,320,40
+Fruits,Birthday,Finger Food,Moderate,300,15
+Baked Goods,Birthday,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Sit-down Dinner,Low,400,25
+Vegetables,Corporate,Sit-down Dinner,Moderate,250,20
+Fruits,Corporate,Sit-down Dinner,High,350,45
+Dairy Products,Corporate,Sit-down Dinner,High,300,40
+Fruits,Corporate,Sit-down Dinner,Moderate,350,25
+Baked Goods,Corporate,Sit-down Dinner,High,380,35
+Dairy Products,Corporate,Finger Food,Low,250,20
+Dairy Products,Social Gathering,Buffet,High,300,30
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Fruits,Social Gathering,Sit-down Dinner,High,400,40
+Baked Goods,Corporate,Finger Food,Moderate,300,25
+Meat,Social Gathering,Sit-down Dinner,High,300,40
+Fruits,Social Gathering,Sit-down Dinner,High,350,45
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Fruits,Social Gathering,Sit-down Dinner,High,380,35
+Dairy Products,Birthday,Sit-down Dinner,Low,240,20
+Baked Goods,Wedding,Sit-down Dinner,Moderate,397,31
+Baked Goods,Birthday,Finger Food,Moderate,320,25
+Dairy Products,Corporate,Finger Food,Moderate,320,25
+Vegetables,Social Gathering,Sit-down Dinner,High,400,30
+Dairy Products,Corporate,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Corporate,Sit-down Dinner,Moderate,350,25
+Baked Goods,Social Gathering,Finger Food,Moderate,300,15
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,35
+Dairy Products,Social Gathering,Buffet,Moderate,250,20
+Baked Goods,Birthday,Sit-down Dinner,Moderate,250,20
+Vegetables,Social Gathering,Sit-down Dinner,High,400,40
+Vegetables,Social Gathering,Finger Food,Low,290,27
+Dairy Products,Social Gathering,Sit-down Dinner,Low,280,25
+Vegetables,Corporate,Buffet,High,350,40
+Fruits,Wedding,Sit-down Dinner,Low,267,30
+Fruits,Birthday,Finger Food,Low,290,27
+Fruits,Wedding,Finger Food,High,300,35
+Meat,Wedding,Sit-down Dinner,High,400,50
+Fruits,Birthday,Finger Food,High,250,30
+Vegetables,Birthday,Finger Food,High,310,35
+Meat,Social Gathering,Finger Food,Low,290,27
+Meat,Birthday,Sit-down Dinner,High,250,40
+Baked Goods,Wedding,Buffet,Low,220,10
+Meat,Birthday,Sit-down Dinner,High,400,45
+Vegetables,Corporate,Buffet,Low,250,10
+Vegetables,Corporate,Finger Food,High,350,30
+Meat,Birthday,Finger Food,Low,300,20
+Meat,Birthday,Finger Food,Moderate,250,20
+Meat,Wedding,Sit-down Dinner,Moderate,261,23
+Meat,Wedding,Sit-down Dinner,High,400,30
+Vegetables,Wedding,Sit-down Dinner,High,350,40
+Fruits,Social Gathering,Buffet,High,320,30
+Fruits,Wedding,Sit-down Dinner,Moderate,300,15
+Vegetables,Birthday,Finger Food,Low,280,15
+Meat,Wedding,Finger Food,Moderate,220,23
+Vegetables,Corporate,Finger Food,Moderate,300,15
+Meat,Wedding,Sit-down Dinner,Moderate,250,25
+Baked Goods,Social Gathering,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Finger Food,Moderate,380,25
+Dairy Products,Corporate,Sit-down Dinner,High,320,35
+Baked Goods,Birthday,Sit-down Dinner,Moderate,350,30
+Dairy Products,Corporate,Sit-down Dinner,Moderate,230,30
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,40
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,380,25
+Dairy Products,Social Gathering,Finger Food,Moderate,342,29
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Vegetables,Wedding,Finger Food,Low,275,16
+Vegetables,Social Gathering,Finger Food,Low,220,15
+Baked Goods,Wedding,Buffet,Moderate,280,25
+Vegetables,Corporate,Sit-down Dinner,High,400,40
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Baked Goods,Wedding,Sit-down Dinner,High,400,40
+Dairy Products,Wedding,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Sit-down Dinner,High,350,35
+Dairy Products,Corporate,Finger Food,High,300,35
+Fruits,Corporate,Finger Food,High,300,35
+Dairy Products,Social Gathering,Buffet,Low,472,36
+Fruits,Wedding,Sit-down Dinner,Moderate,397,31
+Dairy Products,Birthday,Buffet,Low,439,39
+Vegetables,Corporate,Finger Food,Moderate,220,15
+Fruits,Birthday,Finger Food,Moderate,220,15
+Dairy Products,Corporate,Finger Food,Low,300,20
+Baked Goods,Corporate,Sit-down Dinner,High,400,50
+Baked Goods,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Sit-down Dinner,High,350,35
+Baked Goods,Corporate,Sit-down Dinner,High,350,40
+Dairy Products,Wedding,Sit-down Dinner,High,400,35
+Meat,Social Gathering,Sit-down Dinner,High,350,45
+Fruits,Social Gathering,Finger Food,Moderate,250,20
+Baked Goods,Corporate,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Low,290,27
+Dairy Products,Wedding,Sit-down Dinner,High,400,35
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Sit-down Dinner,Low,400,25
+Meat,Wedding,Sit-down Dinner,High,400,45
+Baked Goods,Birthday,Buffet,High,320,30
+Fruits,Corporate,Buffet,Low,310,25
+Vegetables,Wedding,Finger Food,Low,220,15
+Vegetables,Social Gathering,Buffet,Low,367,40
+Meat,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Wedding,Buffet,High,250,40
+Dairy Products,Corporate,Buffet,Low,472,36
+Baked Goods,Wedding,Buffet,Low,250,10
+Fruits,Social Gathering,Finger Food,Low,220,20
+Vegetables,Corporate,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,Moderate,220,15
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Fruits,Birthday,Finger Food,Moderate,380,25
+Baked Goods,Birthday,Buffet,Moderate,250,20
+Meat,Birthday,Sit-down Dinner,Moderate,350,25
+Fruits,Birthday,Finger Food,High,491,32
+Fruits,Birthday,Buffet,Moderate,380,30
+Meat,Social Gathering,Sit-down Dinner,High,292,50
+Vegetables,Birthday,Sit-down Dinner,Low,400,25
+Baked Goods,Birthday,Finger Food,High,300,35
+Dairy Products,Corporate,Buffet,Low,250,10
+Baked Goods,Corporate,Sit-down Dinner,Low,220,15
+Fruits,Corporate,Sit-down Dinner,Low,230,20
+Vegetables,Birthday,Finger Food,Moderate,320,25
+Baked Goods,Corporate,Finger Food,High,450,30
+Fruits,Corporate,Sit-down Dinner,High,400,40
+Fruits,Corporate,Finger Food,Moderate,342,29
+Dairy Products,Wedding,Sit-down Dinner,High,400,35
+Vegetables,Birthday,Finger Food,Moderate,240,30
+Dairy Products,Wedding,Finger Food,High,250,35
+Dairy Products,Birthday,Buffet,Moderate,300,30
+Baked Goods,Birthday,Finger Food,High,350,30
+Meat,Birthday,Sit-down Dinner,Moderate,230,30
+Meat,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Finger Food,Moderate,280,20
+Fruits,Wedding,Sit-down Dinner,High,400,50
+Dairy Products,Corporate,Finger Food,High,400,40
+Baked Goods,Birthday,Finger Food,Moderate,380,25
+Fruits,Social Gathering,Sit-down Dinner,Moderate,250,20
+Dairy Products,Corporate,Sit-down Dinner,Low,300,20
+Dairy Products,Corporate,Finger Food,Moderate,220,15
+Baked Goods,Corporate,Sit-down Dinner,Moderate,350,25
+Vegetables,Social Gathering,Finger Food,Moderate,320,25
+Baked Goods,Corporate,Finger Food,Moderate,320,25
+Dairy Products,Corporate,Finger Food,Moderate,220,15
+Dairy Products,Birthday,Finger Food,Moderate,250,20
+Dairy Products,Corporate,Sit-down Dinner,Low,280,15
+Dairy Products,Social Gathering,Finger Food,High,450,30
+Dairy Products,Wedding,Sit-down Dinner,High,350,40
+Vegetables,Social Gathering,Sit-down Dinner,High,300,40
+Dairy Products,Social Gathering,Sit-down Dinner,Low,300,20
+Baked Goods,Social Gathering,Finger Food,Moderate,220,30
+Dairy Products,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Moderate,247,16
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,40
+Dairy Products,Social Gathering,Finger Food,Moderate,320,25
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,35
+Meat,Birthday,Buffet,High,320,30
+Meat,Wedding,Buffet,Moderate,280,25
+Meat,Corporate,Buffet,High,320,45
+Meat,Birthday,Finger Food,Low,350,20
+Meat,Wedding,Sit-down Dinner,High,400,35
+Meat,Birthday,Finger Food,High,350,30
+Meat,Wedding,Sit-down Dinner,High,400,50
+Fruits,Wedding,Sit-down Dinner,High,320,35
+Baked Goods,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Social Gathering,Sit-down Dinner,Low,434,36
+Dairy Products,Social Gathering,Sit-down Dinner,High,300,40
+Dairy Products,Social Gathering,Finger Food,Moderate,300,25
+Meat,Birthday,Buffet,High,320,40
+Meat,Corporate,Buffet,High,350,40
+Meat,Corporate,Buffet,High,400,30
+Meat,Birthday,Finger Food,High,310,35
+Meat,Wedding,Sit-down Dinner,High,380,35
+Meat,Wedding,Finger Food,Moderate,220,15
+Meat,Corporate,Finger Food,Low,220,15
+Fruits,Wedding,Finger Food,High,310,35
+Meat,Birthday,Sit-down Dinner,Low,434,36
+Fruits,Corporate,Finger Food,Low,275,16
+Meat,Wedding,Finger Food,Moderate,300,15
+Meat,Wedding,Sit-down Dinner,Low,220,15
+Meat,Corporate,Sit-down Dinner,Moderate,350,25
+Meat,Wedding,Sit-down Dinner,High,400,40
+Meat,Corporate,Finger Food,Moderate,220,15
+Meat,Birthday,Finger Food,Moderate,220,15
+Vegetables,Birthday,Finger Food,High,350,30
+Vegetables,Corporate,Sit-down Dinner,Low,220,15
+Baked Goods,Birthday,Finger Food,Low,220,15
+Dairy Products,Birthday,Buffet,Low,300,20
+Vegetables,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Finger Food,Low,350,20
+Fruits,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Buffet,High,320,35
+Meat,Birthday,Finger Food,Moderate,280,20
+Meat,Corporate,Finger Food,High,207,20
+Fruits,Corporate,Finger Food,Low,275,16
+Vegetables,Wedding,Sit-down Dinner,High,400,35
+Meat,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Birthday,Sit-down Dinner,High,400,40
+Fruits,Birthday,Finger Food,High,350,30
+Baked Goods,Wedding,Finger Food,Low,300,20
+Meat,Birthday,Sit-down Dinner,Moderate,350,25
+Baked Goods,Birthday,Buffet,Moderate,250,20
+Fruits,Birthday,Sit-down Dinner,High,320,35
+Baked Goods,Wedding,Sit-down Dinner,High,292,50
+Dairy Products,Birthday,Finger Food,Low,350,20
+Vegetables,Wedding,Buffet,High,320,30
+Fruits,Birthday,Buffet,Low,472,36
+Meat,Corporate,Finger Food,Low,320,15
+Fruits,Wedding,Buffet,High,320,35
+Meat,Wedding,Sit-down Dinner,High,453,54
+Dairy Products,Wedding,Finger Food,Low,290,27
+Dairy Products,Birthday,Sit-down Dinner,High,350,35
+Fruits,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Buffet,Moderate,280,25
+Baked Goods,Wedding,Finger Food,High,250,30
+Fruits,Corporate,Finger Food,Moderate,320,20
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Vegetables,Wedding,Sit-down Dinner,Low,267,24
+Baked Goods,Corporate,Finger Food,High,450,30
+Meat,Wedding,Finger Food,Moderate,220,20
+Fruits,Birthday,Buffet,High,320,30
+Meat,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Sit-down Dinner,High,400,50
+Fruits,Wedding,Sit-down Dinner,Low,442,32
+Baked Goods,Birthday,Finger Food,Moderate,247,16
+Fruits,Wedding,Sit-down Dinner,High,320,35
+Meat,Social Gathering,Finger Food,Low,290,27
+Fruits,Birthday,Sit-down Dinner,High,320,40
+Vegetables,Birthday,Sit-down Dinner,High,438,33
+Dairy Products,Birthday,Finger Food,Low,280,15
+Dairy Products,Social Gathering,Finger Food,Low,280,20
+Dairy Products,Wedding,Finger Food,Moderate,280,20
+Baked Goods,Birthday,Sit-down Dinner,High,400,45
+Baked Goods,Birthday,Sit-down Dinner,High,350,35
+Dairy Products,Wedding,Sit-down Dinner,Moderate,350,25
+Dairy Products,Wedding,Sit-down Dinner,Low,220,15
+Dairy Products,Corporate,Sit-down Dinner,Low,260,20
+Dairy Products,Wedding,Finger Food,Moderate,250,20
+Baked Goods,Social Gathering,Sit-down Dinner,Low,412,38
+Dairy Products,Social Gathering,Buffet,Moderate,320,25
+Meat,Corporate,Sit-down Dinner,Moderate,230,30
+Baked Goods,Birthday,Finger Food,High,350,30
+Baked Goods,Corporate,Buffet,Low,302,27
+Vegetables,Corporate,Sit-down Dinner,High,350,35
+Fruits,Birthday,Finger Food,Moderate,280,20
+Meat,Wedding,Sit-down Dinner,Moderate,250,25
+Meat,Wedding,Sit-down Dinner,Low,230,20
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Finger Food,Moderate,280,20
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,208,22
+Dairy Products,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Birthday,Sit-down Dinner,Moderate,250,20
+Fruits,Wedding,Sit-down Dinner,Low,260,20
+Meat,Social Gathering,Finger Food,Moderate,300,15
+Dairy Products,Wedding,Sit-down Dinner,High,400,40
+Baked Goods,Birthday,Sit-down Dinner,High,400,40
+Meat,Social Gathering,Sit-down Dinner,Moderate,350,25
+Baked Goods,Social Gathering,Finger Food,High,400,40
+Baked Goods,Corporate,Finger Food,Moderate,320,25
+Dairy Products,Wedding,Sit-down Dinner,High,270,40
+Dairy Products,Wedding,Finger Food,Moderate,220,15
+Dairy Products,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Sit-down Dinner,High,400,50
+Vegetables,Corporate,Finger Food,Moderate,220,15
+Baked Goods,Corporate,Finger Food,Moderate,247,16
+Fruits,Social Gathering,Buffet,High,320,40
+Dairy Products,Birthday,Buffet,High,320,35
+Fruits,Birthday,Sit-down Dinner,High,250,40
+Dairy Products,Corporate,Buffet,High,320,45
+Meat,Birthday,Finger Food,Moderate,220,15
+Dairy Products,Corporate,Sit-down Dinner,High,400,45
+Baked Goods,Birthday,Sit-down Dinner,High,350,40
+Baked Goods,Social Gathering,Finger Food,Low,280,20
+Dairy Products,Corporate,Finger Food,Moderate,320,25
+Baked Goods,Corporate,Finger Food,Moderate,247,16
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Finger Food,Moderate,247,16
+Baked Goods,Wedding,Sit-down Dinner,Moderate,230,30
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,40
+Baked Goods,Social Gathering,Finger Food,Moderate,220,30
+Dairy Products,Social Gathering,Sit-down Dinner,High,350,35
+Dairy Products,Social Gathering,Finger Food,Moderate,280,15
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,250,20
+Vegetables,Corporate,Sit-down Dinner,Moderate,350,30
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,350,30
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,397,31
+Baked Goods,Social Gathering,Finger Food,High,400,40
+Dairy Products,Birthday,Sit-down Dinner,Moderate,261,23
+Baked Goods,Birthday,Finger Food,Low,290,27
+Vegetables,Corporate,Sit-down Dinner,High,300,30
+Fruits,Corporate,Sit-down Dinner,High,350,45
+Meat,Corporate,Sit-down Dinner,Moderate,350,25
+Dairy Products,Wedding,Buffet,High,320,45
+Meat,Wedding,Sit-down Dinner,High,400,45
+Fruits,Social Gathering,Finger Food,High,400,40
+Meat,Social Gathering,Buffet,Moderate,380,30
+Meat,Social Gathering,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Finger Food,High,350,30
+Dairy Products,Corporate,Finger Food,High,350,30
+Fruits,Corporate,Finger Food,High,310,35
+Baked Goods,Birthday,Finger Food,High,450,30
+Baked Goods,Corporate,Finger Food,Moderate,247,16
+Meat,Corporate,Sit-down Dinner,High,400,40
+Baked Goods,Wedding,Finger Food,High,220,35
+Fruits,Social Gathering,Sit-down Dinner,High,250,40
+Vegetables,Social Gathering,Finger Food,Low,300,20
+Fruits,Social Gathering,Finger Food,Moderate,342,29
+Dairy Products,Birthday,Finger Food,Low,280,20
+Baked Goods,Wedding,Sit-down Dinner,High,350,35
+Baked Goods,Social Gathering,Buffet,Low,250,10
+Dairy Products,Corporate,Finger Food,Moderate,220,15
+Baked Goods,Corporate,Finger Food,Moderate,320,25
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,250,20
+Dairy Products,Corporate,Finger Food,High,350,30
+Dairy Products,Corporate,Sit-down Dinner,High,400,50
+Dairy Products,Social Gathering,Buffet,Low,439,39
+Dairy Products,Wedding,Sit-down Dinner,Moderate,300,25
+Dairy Products,Wedding,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Sit-down Dinner,Low,220,15
+Dairy Products,Social Gathering,Finger Food,High,300,40
+Fruits,Social Gathering,Sit-down Dinner,Low,230,20
+Dairy Products,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Buffet,Moderate,400,30
+Fruits,Social Gathering,Finger Food,Moderate,220,15
+Baked Goods,Social Gathering,Finger Food,Moderate,300,25
+Fruits,Social Gathering,Finger Food,Moderate,280,20
+Fruits,Birthday,Buffet,High,320,40
+Meat,Wedding,Sit-down Dinner,Low,220,15
+Meat,Wedding,Sit-down Dinner,Low,434,36
+Vegetables,Corporate,Buffet,Low,472,36
+Meat,Corporate,Finger Food,High,250,30
+Fruits,Wedding,Finger Food,Moderate,220,15
+Meat,Corporate,Sit-down Dinner,High,320,35
+Vegetables,Wedding,Finger Food,High,350,30
+Meat,Corporate,Sit-down Dinner,High,400,40
+Fruits,Corporate,Buffet,High,320,40
+Vegetables,Corporate,Buffet,Moderate,280,24
+Fruits,Birthday,Sit-down Dinner,High,292,50
+Meat,Wedding,Sit-down Dinner,Moderate,208,22
+Fruits,Corporate,Sit-down Dinner,Moderate,250,20
+Meat,Birthday,Sit-down Dinner,High,320,35
+Meat,Corporate,Finger Food,Moderate,320,20
+Vegetables,Wedding,Finger Food,Moderate,220,15
+Baked Goods,Corporate,Buffet,Low,302,27
+Vegetables,Social Gathering,Buffet,Moderate,250,20
+Baked Goods,Wedding,Sit-down Dinner,Low,267,24
+Fruits,Wedding,Sit-down Dinner,High,453,54
+Vegetables,Social Gathering,Buffet,High,400,30
+Meat,Wedding,Sit-down Dinner,Moderate,300,15
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Baked Goods,Birthday,Buffet,High,300,40
+Fruits,Social Gathering,Finger Food,Low,280,20
+Dairy Products,Corporate,Finger Food,Low,290,27
+Meat,Corporate,Sit-down Dinner,Moderate,438,35
+Baked Goods,Birthday,Sit-down Dinner,High,350,45
+Vegetables,Corporate,Sit-down Dinner,High,300,35
+Baked Goods,Corporate,Finger Food,Moderate,300,15
+Dairy Products,Wedding,Sit-down Dinner,High,300,35
+Fruits,Social Gathering,Sit-down Dinner,Low,267,24
+Fruits,Birthday,Sit-down Dinner,Moderate,300,25
+Meat,Social Gathering,Finger Food,Moderate,342,29
+Fruits,Birthday,Sit-down Dinner,Moderate,350,25
+Fruits,Social Gathering,Sit-down Dinner,High,400,40
+Vegetables,Corporate,Finger Food,Moderate,220,15
+Vegetables,Social Gathering,Sit-down Dinner,High,320,35
+Dairy Products,Birthday,Finger Food,High,491,32
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Social Gathering,Sit-down Dinner,High,350,35
+Dairy Products,Social Gathering,Finger Food,Low,220,15
+Baked Goods,Social Gathering,Buffet,Moderate,380,30
+Vegetables,Wedding,Sit-down Dinner,Moderate,250,20
+Dairy Products,Wedding,Sit-down Dinner,High,400,50
+Dairy Products,Corporate,Sit-down Dinner,Low,250,25
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Wedding,Sit-down Dinner,Low,240,20
+Dairy Products,Social Gathering,Buffet,Moderate,250,20
+Dairy Products,Corporate,Sit-down Dinner,High,453,54
+Dairy Products,Social Gathering,Buffet,Moderate,380,30
+Baked Goods,Social Gathering,Sit-down Dinner,High,380,35
+Dairy Products,Birthday,Sit-down Dinner,High,250,40
+Vegetables,Social Gathering,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Sit-down Dinner,High,270,40
+Dairy Products,Social Gathering,Buffet,Moderate,280,24
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,208,22
+Baked Goods,Social Gathering,Finger Food,Moderate,280,15
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,300,30
+Dairy Products,Social Gathering,Finger Food,High,310,35
+Baked Goods,Social Gathering,Finger Food,Moderate,380,25
+Baked Goods,Social Gathering,Sit-down Dinner,Low,434,36
+Meat,Wedding,Buffet,Low,284,32
+Meat,Wedding,Buffet,Low,250,10
+Meat,Wedding,Finger Food,Low,250,20
+Meat,Birthday,Finger Food,Low,280,20
+Meat,Corporate,Finger Food,Low,300,20
+Meat,Birthday,Sit-down Dinner,High,400,45
+Meat,Corporate,Sit-down Dinner,High,300,40
+Fruits,Corporate,Finger Food,High,310,35
+Meat,Wedding,Sit-down Dinner,High,400,35
+Meat,Corporate,Finger Food,High,207,20
+Fruits,Wedding,Sit-down Dinner,High,380,35
+Meat,Social Gathering,Buffet,Low,302,27
+Dairy Products,Corporate,Buffet,Low,250,10
+Baked Goods,Birthday,Finger Food,Low,280,15
+Vegetables,Birthday,Sit-down Dinner,High,350,35
+Fruits,Wedding,Sit-down Dinner,Low,220,15
+Vegetables,Birthday,Finger Food,Low,300,15
+Meat,Social Gathering,Finger Food,High,300,35
+Fruits,Corporate,Finger Food,Moderate,250,20
+Vegetables,Wedding,Sit-down Dinner,High,350,40
+Fruits,Wedding,Sit-down Dinner,Low,442,32
+Fruits,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Wedding,Sit-down Dinner,Low,300,20
+Dairy Products,Birthday,Finger Food,High,310,35
+Baked Goods,Wedding,Finger Food,Low,275,16
+Fruits,Social Gathering,Finger Food,High,310,35
+Baked Goods,Birthday,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Buffet,Moderate,380,30
+Dairy Products,Wedding,Finger Food,High,491,32
+Dairy Products,Birthday,Buffet,Moderate,250,20
+Vegetables,Corporate,Sit-down Dinner,High,250,40
+Fruits,Corporate,Finger Food,Moderate,220,20
+Fruits,Birthday,Finger Food,Moderate,320,25
+Fruits,Corporate,Finger Food,Moderate,300,25
+Baked Goods,Corporate,Finger Food,Moderate,250,20
+Meat,Social Gathering,Finger Food,Moderate,300,15
+Baked Goods,Social Gathering,Buffet,High,320,30
+Meat,Social Gathering,Sit-down Dinner,Moderate,208,22
+Baked Goods,Corporate,Sit-down Dinner,Moderate,438,35
+Vegetables,Social Gathering,Finger Food,Low,280,20
+Baked Goods,Corporate,Finger Food,High,207,20
+Vegetables,Social Gathering,Sit-down Dinner,High,453,54
+Dairy Products,Corporate,Finger Food,Low,300,15
+Vegetables,Corporate,Finger Food,Moderate,280,20
+Dairy Products,Social Gathering,Finger Food,High,400,40
+Dairy Products,Corporate,Finger Food,Moderate,250,20
+Baked Goods,Social Gathering,Buffet,Moderate,250,20
+Dairy Products,Corporate,Sit-down Dinner,Moderate,250,20
+Baked Goods,Birthday,Finger Food,Moderate,220,20
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,250,20
+Dairy Products,Social Gathering,Finger Food,Moderate,342,29
+Vegetables,Corporate,Sit-down Dinner,High,400,50
+Dairy Products,Birthday,Sit-down Dinner,High,300,40
+Dairy Products,Social Gathering,Finger Food,High,491,32
+Dairy Products,Social Gathering,Sit-down Dinner,High,380,35
+Dairy Products,Social Gathering,Sit-down Dinner,High,300,40
+Dairy Products,Corporate,Sit-down Dinner,Moderate,230,30
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,300,25
+Meat,Wedding,Buffet,High,300,40
+Meat,Wedding,Finger Food,Low,300,20
+Meat,Wedding,Buffet,Low,302,27
+Vegetables,Birthday,Buffet,Low,472,36
+Meat,Corporate,Buffet,High,300,40
+Vegetables,Wedding,Buffet,Low,250,10
+Meat,Corporate,Finger Food,Low,290,27
+Meat,Corporate,Sit-down Dinner,Low,434,36
+Fruits,Corporate,Finger Food,Low,280,15
+Fruits,Wedding,Sit-down Dinner,High,400,45
+Meat,Wedding,Sit-down Dinner,High,350,35
+Meat,Corporate,Finger Food,High,250,30
+Vegetables,Wedding,Sit-down Dinner,High,350,35
+Vegetables,Wedding,Finger Food,Moderate,280,20
+Fruits,Corporate,Buffet,Low,302,22
+Meat,Corporate,Buffet,Low,250,10
+Meat,Birthday,Finger Food,Low,280,20
+Meat,Birthday,Buffet,High,320,30
+Fruits,Corporate,Buffet,Low,250,10
+Meat,Birthday,Buffet,Moderate,380,30
+Meat,Corporate,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,Moderate,280,20
+Vegetables,Corporate,Sit-down Dinner,High,434,36
+Meat,Social Gathering,Finger Food,Moderate,250,20
+Vegetables,Social Gathering,Buffet,High,320,40
+Baked Goods,Wedding,Sit-down Dinner,Low,442,32
+Vegetables,Wedding,Sit-down Dinner,High,300,35
+Vegetables,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Birthday,Buffet,Moderate,380,30
+Fruits,Corporate,Sit-down Dinner,High,292,50
+Vegetables,Corporate,Finger Food,Moderate,320,20
+Meat,Wedding,Sit-down Dinner,Moderate,261,24
+Fruits,Corporate,Finger Food,Moderate,300,15
+Vegetables,Birthday,Sit-down Dinner,Low,400,25
+Fruits,Social Gathering,Finger Food,Low,220,15
+Baked Goods,Birthday,Finger Food,High,400,40
+Dairy Products,Social Gathering,Buffet,High,320,30
+Fruits,Social Gathering,Finger Food,Low,250,20
+Vegetables,Wedding,Sit-down Dinner,Moderate,280,15
+Baked Goods,Wedding,Sit-down Dinner,Low,300,20
+Fruits,Birthday,Finger Food,Moderate,280,20
+Fruits,Social Gathering,Finger Food,Low,290,27
+Fruits,Birthday,Sit-down Dinner,High,320,35
+Fruits,Birthday,Sit-down Dinner,Moderate,261,23
+Baked Goods,Birthday,Sit-down Dinner,High,350,35
+Baked Goods,Birthday,Sit-down Dinner,High,270,40
+Vegetables,Social Gathering,Buffet,High,320,30
+Baked Goods,Corporate,Sit-down Dinner,High,380,35
+Vegetables,Corporate,Sit-down Dinner,Moderate,397,31
+Dairy Products,Wedding,Finger Food,High,350,30
+Dairy Products,Birthday,Finger Food,Moderate,220,15
+Vegetables,Birthday,Sit-down Dinner,Moderate,250,20
+Dairy Products,Corporate,Finger Food,Low,220,15
+Meat,Wedding,Sit-down Dinner,Low,267,24
+Meat,Wedding,Finger Food,Low,280,20
+Fruits,Corporate,Finger Food,Low,220,15
+Vegetables,Birthday,Finger Food,Low,280,20
+Vegetables,Corporate,Finger Food,High,250,30
+Baked Goods,Birthday,Finger Food,Moderate,280,20
+Dairy Products,Social Gathering,Finger Food,High,300,35
+Fruits,Social Gathering,Sit-down Dinner,Moderate,300,25
+Dairy Products,Social Gathering,Sit-down Dinner,High,292,50
+Baked Goods,Social Gathering,Finger Food,Moderate,320,25
+Fruits,Wedding,Finger Food,Moderate,220,15
+Dairy Products,Birthday,Buffet,Low,367,40
+Vegetables,Birthday,Finger Food,Low,220,15
+Fruits,Birthday,Buffet,Moderate,300,30
+Vegetables,Corporate,Finger Food,High,250,35
+Dairy Products,Corporate,Sit-down Dinner,High,400,45
+Dairy Products,Corporate,Sit-down Dinner,High,300,35
+Baked Goods,Social Gathering,Finger Food,High,250,40
+Dairy Products,Corporate,Finger Food,Moderate,300,25
+Dairy Products,Social Gathering,Sit-down Dinner,Low,240,20
+Vegetables,Corporate,Finger Food,Moderate,220,15
+Meat,Birthday,Finger Food,Moderate,220,15
+Baked Goods,Corporate,Finger Food,Low,280,20
+Meat,Social Gathering,Finger Food,Low,220,15
+Fruits,Birthday,Finger Food,Moderate,280,20
+Fruits,Wedding,Finger Food,Moderate,250,20
+Fruits,Social Gathering,Buffet,High,320,30
+Vegetables,Corporate,Sit-down Dinner,Low,230,20
+Fruits,Birthday,Finger Food,High,250,35
+Meat,Social Gathering,Finger Food,Moderate,280,20
+Vegetables,Corporate,Sit-down Dinner,Moderate,208,22
+Meat,Social Gathering,Finger Food,Moderate,250,20
+Vegetables,Wedding,Sit-down Dinner,Moderate,208,22
+Baked Goods,Corporate,Sit-down Dinner,High,300,35
+Dairy Products,Corporate,Buffet,Low,302,27
+Baked Goods,Wedding,Sit-down Dinner,High,380,35
+Baked Goods,Social Gathering,Buffet,Low,367,40
+Baked Goods,Social Gathering,Finger Food,Low,280,20
+Vegetables,Wedding,Sit-down Dinner,Moderate,350,25
+Fruits,Social Gathering,Sit-down Dinner,High,400,50
+Meat,Social Gathering,Sit-down Dinner,Low,280,15
+Vegetables,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Wedding,Sit-down Dinner,High,400,40
+Baked Goods,Social Gathering,Finger Food,High,310,35
+Baked Goods,Wedding,Finger Food,Moderate,320,25
+Meat,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Sit-down Dinner,High,400,35
+Dairy Products,Corporate,Finger Food,High,310,35
+Fruits,Social Gathering,Finger Food,Moderate,250,20
+Fruits,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Birthday,Finger Food,High,300,35
+Dairy Products,Corporate,Sit-down Dinner,High,270,40
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,40
+Baked Goods,Social Gathering,Sit-down Dinner,High,380,35
+Baked Goods,Social Gathering,Buffet,Moderate,300,30
+Dairy Products,Social Gathering,Sit-down Dinner,Low,434,36
+Baked Goods,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Corporate,Sit-down Dinner,Low,434,36
+Dairy Products,Birthday,Sit-down Dinner,High,350,35
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,50
+Dairy Products,Social Gathering,Finger Food,Low,320,15
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,250,20
+Baked Goods,Social Gathering,Finger Food,Moderate,320,25
+Dairy Products,Social Gathering,Finger Food,Low,280,20
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,438,35
+Dairy Products,Social Gathering,Sit-down Dinner,High,300,40
+Meat,Birthday,Buffet,Low,280,20
+Fruits,Corporate,Buffet,High,400,30
+Meat,Birthday,Sit-down Dinner,High,292,50
+Meat,Corporate,Sit-down Dinner,Low,220,15
+Fruits,Corporate,Sit-down Dinner,Low,280,15
+Baked Goods,Corporate,Buffet,High,350,40
+Fruits,Social Gathering,Buffet,Low,439,26
+Fruits,Corporate,Sit-down Dinner,High,400,50
+Fruits,Corporate,Finger Food,High,400,40
+Fruits,Social Gathering,Buffet,Low,367,40
+Fruits,Wedding,Finger Food,Moderate,380,25
+Vegetables,Wedding,Sit-down Dinner,High,250,40
+Vegetables,Wedding,Finger Food,Moderate,380,25
+Baked Goods,Wedding,Finger Food,High,250,35
+Meat,Corporate,Sit-down Dinner,High,400,45
+Meat,Corporate,Sit-down Dinner,High,380,35
+Meat,Corporate,Sit-down Dinner,High,400,45
+Fruits,Corporate,Sit-down Dinner,High,350,35
+Vegetables,Birthday,Finger Food,Moderate,250,20
+Vegetables,Wedding,Sit-down Dinner,High,400,40
+Fruits,Birthday,Sit-down Dinner,High,400,35
+Dairy Products,Birthday,Buffet,High,320,30
+Dairy Products,Corporate,Finger Food,Low,300,20
+Meat,Corporate,Finger Food,Moderate,280,20
+Fruits,Corporate,Finger Food,Moderate,220,15
+Meat,Social Gathering,Finger Food,Moderate,320,25
+Baked Goods,Corporate,Finger Food,Moderate,350,20
+Vegetables,Birthday,Finger Food,Moderate,300,25
+Vegetables,Birthday,Finger Food,Moderate,320,25
+Fruits,Corporate,Finger Food,Moderate,220,15
+Fruits,Corporate,Sit-down Dinner,Low,220,15
+Dairy Products,Birthday,Finger Food,Low,220,15
+Baked Goods,Birthday,Sit-down Dinner,High,400,45
+Dairy Products,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Sit-down Dinner,High,400,50
+Baked Goods,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Sit-down Dinner,Low,434,36
+Baked Goods,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Birthday,Sit-down Dinner,Low,220,15
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Finger Food,High,250,30
+Baked Goods,Social Gathering,Sit-down Dinner,High,453,54
+Dairy Products,Social Gathering,Sit-down Dinner,Low,260,20
+Vegetables,Social Gathering,Finger Food,Moderate,350,20
+Fruits,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Birthday,Sit-down Dinner,Moderate,250,15
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,45
+Dairy Products,Social Gathering,Finger Food,Moderate,320,25
+Baked Goods,Social Gathering,Finger Food,Moderate,350,25
+Baked Goods,Social Gathering,Finger Food,Moderate,350,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Sit-down Dinner,Moderate,300,25
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,250,20
+Fruits,Social Gathering,Finger Food,Moderate,320,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,250,20
+Meat,Wedding,Buffet,High,400,30
+Meat,Corporate,Buffet,High,320,45
+Meat,Wedding,Sit-down Dinner,Low,400,25
+Fruits,Wedding,Sit-down Dinner,High,400,50
+Fruits,Wedding,Sit-down Dinner,High,380,35
+Meat,Wedding,Sit-down Dinner,High,300,40
+Meat,Wedding,Sit-down Dinner,Low,400,25
+Fruits,Corporate,Sit-down Dinner,High,320,35
+Meat,Birthday,Buffet,Moderate,380,30
+Fruits,Corporate,Buffet,Moderate,380,30
+Meat,Wedding,Finger Food,Moderate,300,15
+Vegetables,Birthday,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Finger Food,Low,300,15
+Meat,Corporate,Sit-down Dinner,High,400,35
+Fruits,Birthday,Buffet,Moderate,400,30
+Meat,Wedding,Sit-down Dinner,Low,240,20
+Meat,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Corporate,Finger Food,Moderate,320,25
+Baked Goods,Birthday,Finger Food,High,450,30
+Baked Goods,Corporate,Buffet,Low,439,36
+Baked Goods,Wedding,Buffet,Low,280,20
+Fruits,Corporate,Finger Food,High,310,35
+Vegetables,Wedding,Sit-down Dinner,Moderate,208,22
+Fruits,Wedding,Sit-down Dinner,Moderate,208,22
+Vegetables,Birthday,Finger Food,Moderate,250,20
+Baked Goods,Wedding,Finger Food,Moderate,300,15
+Fruits,Corporate,Sit-down Dinner,Moderate,250,20
+Baked Goods,Birthday,Finger Food,Low,290,27
+Fruits,Corporate,Finger Food,Moderate,342,29
+Dairy Products,Wedding,Sit-down Dinner,Low,280,15
+Vegetables,Wedding,Sit-down Dinner,Low,434,36
+Meat,Social Gathering,Sit-down Dinner,Low,230,20
+Baked Goods,Birthday,Finger Food,High,491,32
+Dairy Products,Social Gathering,Buffet,High,250,40
+Fruits,Social Gathering,Buffet,High,320,40
+Fruits,Corporate,Sit-down Dinner,High,400,50
+Fruits,Corporate,Sit-down Dinner,Low,230,20
+Fruits,Wedding,Sit-down Dinner,Moderate,208,22
+Dairy Products,Birthday,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Buffet,Moderate,300,30
+Baked Goods,Birthday,Sit-down Dinner,High,453,54
+Baked Goods,Social Gathering,Buffet,High,300,40
+Dairy Products,Corporate,Finger Food,Low,220,15
+Fruits,Social Gathering,Finger Food,High,450,30
+Meat,Social Gathering,Sit-down Dinner,High,400,50
+Dairy Products,Corporate,Finger Food,Low,220,15
+Baked Goods,Corporate,Sit-down Dinner,Moderate,208,22
+Meat,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Wedding,Sit-down Dinner,High,350,35
+Fruits,Social Gathering,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,45
+Baked Goods,Social Gathering,Sit-down Dinner,High,300,40
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,230,30
+Dairy Products,Corporate,Sit-down Dinner,High,400,50
+Dairy Products,Social Gathering,Finger Food,Moderate,300,15
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Birthday,Sit-down Dinner,Moderate,261,23
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,438,35
+Meat,Birthday,Finger Food,High,491,32
+Meat,Birthday,Finger Food,Low,300,15
+Meat,Wedding,Sit-down Dinner,High,300,40
+Meat,Wedding,Sit-down Dinner,High,350,35
+Meat,Corporate,Sit-down Dinner,High,292,50
+Meat,Wedding,Finger Food,Moderate,300,25
+Baked Goods,Corporate,Buffet,Low,430,29
+Fruits,Corporate,Finger Food,Low,220,15
+Meat,Wedding,Sit-down Dinner,High,320,35
+Fruits,Corporate,Finger Food,Moderate,300,15
+Meat,Wedding,Sit-down Dinner,High,350,35
+Meat,Corporate,Finger Food,Moderate,320,25
+Fruits,Birthday,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,250,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,261,23
+Fruits,Corporate,Finger Food,Low,220,15
+Meat,Wedding,Sit-down Dinner,High,400,45
+Meat,Corporate,Finger Food,Low,280,15
+Vegetables,Wedding,Buffet,High,320,35
+Meat,Corporate,Finger Food,Moderate,250,20
+Meat,Birthday,Sit-down Dinner,Low,300,15
+Meat,Corporate,Finger Food,Moderate,300,15
+Meat,Corporate,Finger Food,Moderate,350,20
+Meat,Corporate,Finger Food,Moderate,220,30
+Vegetables,Corporate,Finger Food,Low,280,20
+Meat,Corporate,Sit-down Dinner,High,400,40
+Vegetables,Birthday,Sit-down Dinner,High,320,40
+Dairy Products,Corporate,Buffet,High,250,40
+Baked Goods,Birthday,Buffet,Low,310,25
+Vegetables,Corporate,Finger Food,Moderate,220,20
+Baked Goods,Corporate,Finger Food,Low,220,15
+Fruits,Wedding,Sit-down Dinner,High,350,40
+Meat,Corporate,Finger Food,Moderate,320,25
+Fruits,Wedding,Sit-down Dinner,High,300,35
+Vegetables,Wedding,Sit-down Dinner,High,320,35
+Fruits,Social Gathering,Buffet,High,320,30
+Dairy Products,Corporate,Buffet,Low,310,25
+Meat,Corporate,Sit-down Dinner,High,300,35
+Vegetables,Corporate,Sit-down Dinner,High,250,40
+Fruits,Wedding,Finger Food,Moderate,220,15
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Corporate,Finger Food,High,400,40
+Dairy Products,Wedding,Buffet,Low,250,10
+Vegetables,Corporate,Buffet,Low,302,27
+Baked Goods,Wedding,Sit-down Dinner,Low,350,25
+Baked Goods,Birthday,Finger Food,Low,220,15
+Fruits,Birthday,Finger Food,Moderate,250,20
+Dairy Products,Corporate,Finger Food,Low,280,20
+Fruits,Social Gathering,Finger Food,Low,220,15
+Fruits,Social Gathering,Buffet,High,320,45
+Meat,Corporate,Finger Food,Moderate,320,25
+Dairy Products,Birthday,Finger Food,High,207,20
+Fruits,Wedding,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Sit-down Dinner,Low,300,20
+Baked Goods,Corporate,Finger Food,High,310,35
+Fruits,Social Gathering,Sit-down Dinner,High,400,45
+Fruits,Birthday,Sit-down Dinner,Low,400,25
+Fruits,Social Gathering,Finger Food,High,491,32
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Vegetables,Corporate,Sit-down Dinner,High,320,35
+Vegetables,Corporate,Sit-down Dinner,Moderate,350,25
+Baked Goods,Wedding,Sit-down Dinner,High,400,50
+Baked Goods,Wedding,Finger Food,Moderate,320,25
+Dairy Products,Corporate,Buffet,Low,300,20
+Baked Goods,Wedding,Sit-down Dinner,High,250,40
+Baked Goods,Wedding,Sit-down Dinner,Low,280,25
+Dairy Products,Corporate,Buffet,High,320,45
+Meat,Corporate,Sit-down Dinner,Moderate,250,20
+Vegetables,Corporate,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Sit-down Dinner,High,300,35
+Baked Goods,Corporate,Finger Food,High,250,30
+Fruits,Social Gathering,Finger Food,Moderate,320,25
+Fruits,Social Gathering,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Birthday,Sit-down Dinner,High,400,45
+Baked Goods,Wedding,Sit-down Dinner,Moderate,350,30
+Baked Goods,Social Gathering,Finger Food,High,400,40
+Baked Goods,Social Gathering,Sit-down Dinner,High,250,40
+Fruits,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Finger Food,High,310,35
+Baked Goods,Corporate,Sit-down Dinner,High,350,45
+Baked Goods,Corporate,Sit-down Dinner,High,320,40
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Dairy Products,Birthday,Finger Food,Low,280,20
+Dairy Products,Birthday,Buffet,Moderate,250,20
+Dairy Products,Wedding,Finger Food,High,250,30
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Baked Goods,Social Gathering,Buffet,Low,300,20
+Dairy Products,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Moderate,342,29
+Baked Goods,Social Gathering,Sit-down Dinner,High,380,35
+Baked Goods,Wedding,Sit-down Dinner,High,400,50
+Baked Goods,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Wedding,Sit-down Dinner,High,400,40
+Dairy Products,Wedding,Sit-down Dinner,High,320,35
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,40
+Dairy Products,Social Gathering,Sit-down Dinner,High,320,35
+Baked Goods,Social Gathering,Sit-down Dinner,Low,300,20
+Dairy Products,Social Gathering,Finger Food,Moderate,220,15
+Baked Goods,Wedding,Sit-down Dinner,High,400,40
+Vegetables,Wedding,Sit-down Dinner,Moderate,350,25
+Vegetables,Social Gathering,Sit-down Dinner,Low,429,42
+Baked Goods,Social Gathering,Finger Food,Moderate,380,25
+Baked Goods,Birthday,Sit-down Dinner,High,250,40
+Meat,Social Gathering,Sit-down Dinner,Moderate,250,25
+Dairy Products,Corporate,Finger Food,Moderate,250,20
+Baked Goods,Social Gathering,Sit-down Dinner,Low,300,20
+Dairy Products,Social Gathering,Buffet,High,320,40
+Dairy Products,Social Gathering,Finger Food,Moderate,380,25
+Baked Goods,Social Gathering,Sit-down Dinner,High,320,40
+Dairy Products,Social Gathering,Finger Food,Moderate,300,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,397,31
+Baked Goods,Birthday,Sit-down Dinner,Moderate,350,25
+Meat,Corporate,Buffet,Moderate,320,25
+Meat,Birthday,Buffet,Low,302,27
+Meat,Wedding,Finger Food,High,300,35
+Meat,Wedding,Sit-down Dinner,High,350,40
+Vegetables,Wedding,Finger Food,Low,280,20
+Meat,Wedding,Finger Food,High,300,35
+Fruits,Birthday,Buffet,High,320,40
+Fruits,Birthday,Finger Food,High,350,30
+Meat,Birthday,Finger Food,Low,300,20
+Meat,Corporate,Finger Food,High,350,30
+Baked Goods,Birthday,Buffet,Low,367,40
+Meat,Wedding,Finger Food,Moderate,300,25
+Meat,Wedding,Sit-down Dinner,Low,300,20
+Fruits,Birthday,Sit-down Dinner,Low,280,25
+Fruits,Corporate,Buffet,High,320,40
+Baked Goods,Wedding,Buffet,High,320,35
+Meat,Birthday,Sit-down Dinner,Low,250,25
+Vegetables,Birthday,Finger Food,High,207,20
+Meat,Social Gathering,Finger Food,High,250,35
+Meat,Corporate,Finger Food,High,250,35
+Fruits,Birthday,Sit-down Dinner,High,350,45
+Fruits,Wedding,Sit-down Dinner,Moderate,438,35
+Meat,Social Gathering,Finger Food,High,310,35
+Baked Goods,Wedding,Finger Food,Moderate,320,25
+Fruits,Corporate,Sit-down Dinner,High,400,50
+Meat,Social Gathering,Sit-down Dinner,High,453,54
+Baked Goods,Birthday,Sit-down Dinner,High,350,40
+Baked Goods,Corporate,Sit-down Dinner,High,400,45
+Meat,Corporate,Sit-down Dinner,High,400,50
+Dairy Products,Birthday,Buffet,High,300,30
+Dairy Products,Birthday,Sit-down Dinner,Low,434,36
+Fruits,Birthday,Sit-down Dinner,Low,280,25
+Baked Goods,Social Gathering,Buffet,Moderate,400,30
+Baked Goods,Wedding,Sit-down Dinner,Low,400,25
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Fruits,Birthday,Sit-down Dinner,High,453,54
+Dairy Products,Corporate,Sit-down Dinner,High,453,54
+Dairy Products,Wedding,Sit-down Dinner,Low,240,20
+Dairy Products,Wedding,Sit-down Dinner,High,350,35
+Dairy Products,Birthday,Finger Food,Moderate,300,25
+Meat,Birthday,Buffet,Low,367,40
+Meat,Wedding,Finger Food,Low,220,15
+Fruits,Wedding,Finger Food,Low,280,20
+Fruits,Birthday,Finger Food,High,491,32
+Baked Goods,Wedding,Sit-down Dinner,Low,434,36
+Vegetables,Corporate,Sit-down Dinner,Moderate,230,30
+Baked Goods,Birthday,Sit-down Dinner,Moderate,250,25
+Dairy Products,Corporate,Finger Food,Moderate,300,25
+Baked Goods,Wedding,Sit-down Dinner,High,350,45
+Dairy Products,Wedding,Finger Food,Moderate,320,25
+Dairy Products,Social Gathering,Finger Food,High,310,35
+Dairy Products,Wedding,Sit-down Dinner,High,320,35
+Baked Goods,Social Gathering,Sit-down Dinner,Low,260,20
+Meat,Birthday,Buffet,Moderate,400,30
+Meat,Corporate,Finger Food,Low,275,16
+Meat,Corporate,Sit-down Dinner,High,320,40
+Meat,Corporate,Sit-down Dinner,High,400,50
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,40
+Dairy Products,Birthday,Finger Food,Moderate,320,15
+Vegetables,Social Gathering,Sit-down Dinner,High,300,35
+Baked Goods,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Low,220,15
+Dairy Products,Social Gathering,Finger Food,Moderate,220,15
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Finger Food,Moderate,220,15
+Fruits,Wedding,Sit-down Dinner,High,453,54
+Fruits,Birthday,Finger Food,High,250,30
+Vegetables,Corporate,Buffet,High,350,40
+Meat,Wedding,Sit-down Dinner,Moderate,300,25
+Meat,Birthday,Sit-down Dinner,High,380,35
+Meat,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Corporate,Sit-down Dinner,High,400,50
+Baked Goods,Birthday,Finger Food,High,491,32
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Meat,Birthday,Sit-down Dinner,Moderate,261,23
+Vegetables,Wedding,Sit-down Dinner,Low,434,36
+Fruits,Wedding,Sit-down Dinner,Moderate,350,30
+Vegetables,Birthday,Sit-down Dinner,High,350,35
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Baked Goods,Wedding,Finger Food,Moderate,247,16
+Dairy Products,Corporate,Buffet,Moderate,320,25
+Baked Goods,Wedding,Finger Food,High,207,20
+Baked Goods,Corporate,Sit-down Dinner,Low,280,25
+Baked Goods,Corporate,Finger Food,High,400,40
+Dairy Products,Wedding,Finger Food,Moderate,220,15
+Baked Goods,Wedding,Sit-down Dinner,High,400,40
+Baked Goods,Birthday,Finger Food,Moderate,250,20
+Baked Goods,Birthday,Finger Food,Moderate,320,20
+Vegetables,Corporate,Sit-down Dinner,Moderate,250,25
+Dairy Products,Wedding,Sit-down Dinner,Low,230,20
+Vegetables,Wedding,Sit-down Dinner,Moderate,350,25
+Fruits,Corporate,Sit-down Dinner,Moderate,261,23
+Baked Goods,Corporate,Finger Food,Moderate,247,16
+Baked Goods,Corporate,Buffet,Moderate,380,30
+Baked Goods,Corporate,Sit-down Dinner,High,350,35
+Dairy Products,Birthday,Sit-down Dinner,Low,300,20
+Baked Goods,Social Gathering,Buffet,Moderate,380,30
+Vegetables,Social Gathering,Sit-down Dinner,High,300,35
+Baked Goods,Social Gathering,Buffet,Low,300,20
+Dairy Products,Wedding,Finger Food,Moderate,300,25
+Baked Goods,Wedding,Finger Food,Moderate,320,25
+Baked Goods,Social Gathering,Finger Food,Moderate,280,15
+Baked Goods,Corporate,Sit-down Dinner,Moderate,208,22
+Baked Goods,Wedding,Sit-down Dinner,High,320,35
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,240,30
+Meat,Corporate,Buffet,High,250,40
+Meat,Corporate,Buffet,Low,430,29
+Fruits,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Moderate,220,15
+Baked Goods,Social Gathering,Sit-down Dinner,Low,280,15
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,350,25
+Fruits,Wedding,Buffet,High,320,35
+Meat,Wedding,Finger Food,Low,300,15
+Meat,Wedding,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,Low,300,20
+Fruits,Corporate,Sit-down Dinner,High,380,35
+Meat,Corporate,Sit-down Dinner,Low,280,25
+Meat,Corporate,Sit-down Dinner,High,350,45
+Meat,Wedding,Sit-down Dinner,High,320,35
+Meat,Corporate,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,High,250,30
+Meat,Wedding,Finger Food,Low,280,20
+Meat,Birthday,Sit-down Dinner,Low,429,42
+Dairy Products,Wedding,Buffet,High,320,30
+Meat,Wedding,Sit-down Dinner,High,400,50
+Fruits,Wedding,Buffet,Moderate,400,30
+Meat,Corporate,Sit-down Dinner,Moderate,208,22
+Vegetables,Wedding,Finger Food,Low,350,20
+Vegetables,Corporate,Sit-down Dinner,Low,280,25
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Fruits,Wedding,Finger Food,High,300,35
+Fruits,Wedding,Finger Food,Low,275,16
+Fruits,Birthday,Finger Food,Low,220,20
+Baked Goods,Wedding,Buffet,High,400,30
+Vegetables,Social Gathering,Buffet,Low,302,27
+Baked Goods,Corporate,Buffet,High,320,45
+Meat,Wedding,Sit-down Dinner,Moderate,397,31
+Vegetables,Social Gathering,Buffet,High,320,30
+Meat,Social Gathering,Finger Food,Low,300,15
+Dairy Products,Corporate,Finger Food,Low,300,20
+Fruits,Wedding,Sit-down Dinner,Low,300,20
+Baked Goods,Birthday,Finger Food,Moderate,320,15
+Meat,Birthday,Sit-down Dinner,Moderate,230,30
+Meat,Social Gathering,Sit-down Dinner,High,320,35
+Meat,Wedding,Finger Food,Low,280,20
+Fruits,Wedding,Finger Food,Low,280,20
+Meat,Wedding,Sit-down Dinner,High,320,35
+Meat,Birthday,Sit-down Dinner,High,300,35
+Fruits,Wedding,Sit-down Dinner,Low,280,25
+Meat,Birthday,Sit-down Dinner,High,400,45
+Baked Goods,Corporate,Sit-down Dinner,High,400,50
+Baked Goods,Corporate,Finger Food,Moderate,342,29
+Vegetables,Birthday,Sit-down Dinner,Moderate,350,25
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Baked Goods,Birthday,Buffet,High,320,40
+Vegetables,Corporate,Buffet,Moderate,320,25
+Fruits,Birthday,Sit-down Dinner,High,400,50
+Fruits,Corporate,Finger Food,Moderate,320,20
+Meat,Social Gathering,Finger Food,Low,250,20
+Baked Goods,Corporate,Finger Food,Low,350,20
+Vegetables,Corporate,Sit-down Dinner,High,400,45
+Meat,Social Gathering,Buffet,Moderate,250,20
+Vegetables,Wedding,Sit-down Dinner,Low,434,36
+Vegetables,Birthday,Sit-down Dinner,High,350,45
+Vegetables,Birthday,Sit-down Dinner,High,400,50
+Baked Goods,Wedding,Finger Food,Moderate,280,15
+Fruits,Social Gathering,Buffet,Moderate,250,20
+Baked Goods,Wedding,Sit-down Dinner,High,300,40
+Vegetables,Corporate,Finger Food,Moderate,250,20
+Baked Goods,Birthday,Finger Food,Moderate,300,25
+Vegetables,Wedding,Finger Food,Moderate,300,25
+Dairy Products,Social Gathering,Buffet,Low,280,20
+Baked Goods,Wedding,Sit-down Dinner,Low,432,23
+Dairy Products,Wedding,Sit-down Dinner,High,300,40
+Dairy Products,Corporate,Buffet,High,320,40
+Vegetables,Social Gathering,Sit-down Dinner,High,320,35
+Dairy Products,Corporate,Finger Food,Moderate,300,15
+Baked Goods,Corporate,Sit-down Dinner,High,400,40
+Meat,Social Gathering,Sit-down Dinner,Moderate,350,25
+Meat,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Finger Food,Low,275,16
+Dairy Products,Birthday,Finger Food,Moderate,320,25
+Fruits,Wedding,Sit-down Dinner,High,380,35
+Dairy Products,Birthday,Finger Food,High,400,40
+Vegetables,Social Gathering,Finger Food,Moderate,300,25
+Baked Goods,Birthday,Finger Food,Low,275,16
+Baked Goods,Corporate,Sit-down Dinner,High,400,35
+Meat,Social Gathering,Sit-down Dinner,Moderate,250,25
+Baked Goods,Wedding,Sit-down Dinner,Low,434,36
+Baked Goods,Corporate,Sit-down Dinner,Low,400,25
+Baked Goods,Social Gathering,Finger Food,Low,280,20
+Baked Goods,Wedding,Sit-down Dinner,Moderate,300,15
+Baked Goods,Corporate,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Finger Food,Moderate,280,15
+Dairy Products,Wedding,Sit-down Dinner,Moderate,261,23
+Dairy Products,Social Gathering,Finger Food,Low,275,16
+Dairy Products,Corporate,Sit-down Dinner,High,400,50
+Vegetables,Social Gathering,Buffet,Moderate,380,30
+Dairy Products,Birthday,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Sit-down Dinner,Moderate,350,15
+Dairy Products,Birthday,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Finger Food,Moderate,220,15
+Baked Goods,Social Gathering,Finger Food,Low,220,20
+Baked Goods,Social Gathering,Finger Food,Moderate,220,15
+Meat,Social Gathering,Sit-down Dinner,Moderate,208,22
+Dairy Products,Wedding,Sit-down Dinner,High,250,34
+Dairy Products,Social Gathering,Finger Food,Low,280,20
+Dairy Products,Birthday,Sit-down Dinner,High,350,45
+Baked Goods,Social Gathering,Sit-down Dinner,High,250,40
+Dairy Products,Corporate,Sit-down Dinner,Low,400,25
+Baked Goods,Social Gathering,Sit-down Dinner,High,270,40
+Dairy Products,Corporate,Sit-down Dinner,Moderate,250,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,208,22
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,35
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,250,20
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,250,25
+Meat,Birthday,Buffet,Low,302,27
+Meat,Wedding,Buffet,Low,430,29
+Meat,Birthday,Buffet,Moderate,400,30
+Meat,Wedding,Buffet,Moderate,250,20
+Meat,Corporate,Finger Food,Low,290,27
+Meat,Birthday,Finger Food,Low,220,20
+Meat,Corporate,Sit-down Dinner,Low,300,20
+Meat,Corporate,Sit-down Dinner,Low,240,20
+Meat,Corporate,Sit-down Dinner,Low,442,32
+Meat,Wedding,Sit-down Dinner,Low,300,20
+Vegetables,Birthday,Finger Food,High,491,32
+Meat,Birthday,Finger Food,Moderate,220,20
+Meat,Birthday,Sit-down Dinner,High,350,45
+Meat,Social Gathering,Buffet,High,300,40
+Vegetables,Social Gathering,Buffet,Low,302,27
+Meat,Corporate,Sit-down Dinner,Moderate,350,25
+Meat,Corporate,Sit-down Dinner,Moderate,300,15
+Fruits,Corporate,Finger Food,High,450,30
+Meat,Corporate,Sit-down Dinner,Low,434,36
+Meat,Corporate,Sit-down Dinner,High,250,40
+Meat,Birthday,Finger Food,High,450,30
+Meat,Wedding,Sit-down Dinner,Low,434,36
+Meat,Birthday,Finger Food,Low,280,15
+Meat,Corporate,Sit-down Dinner,Low,280,15
+Meat,Corporate,Finger Food,Low,280,15
+Meat,Corporate,Sit-down Dinner,Low,429,42
+Meat,Corporate,Finger Food,Moderate,320,25
+Meat,Corporate,Sit-down Dinner,High,400,45
+Fruits,Corporate,Finger Food,Moderate,220,20
+Dairy Products,Birthday,Sit-down Dinner,Low,220,15
+Fruits,Social Gathering,Buffet,Moderate,250,20
+Dairy Products,Corporate,Buffet,High,300,30
+Dairy Products,Wedding,Buffet,High,400,30
+Baked Goods,Social Gathering,Buffet,Low,430,29
+Fruits,Birthday,Finger Food,Moderate,300,20
+Fruits,Corporate,Buffet,Moderate,320,25
+Baked Goods,Wedding,Finger Food,Moderate,280,20
+Vegetables,Birthday,Sit-down Dinner,High,350,35
+Vegetables,Wedding,Sit-down Dinner,Low,300,20
+Baked Goods,Corporate,Finger Food,Moderate,320,25
+Dairy Products,Birthday,Buffet,High,320,30
+Baked Goods,Corporate,Buffet,High,300,40
+Meat,Wedding,Buffet,High,350,40
+Baked Goods,Corporate,Buffet,Low,250,10
+Meat,Wedding,Finger Food,Moderate,220,20
+Meat,Birthday,Finger Food,Moderate,220,15
+Meat,Corporate,Buffet,Low,250,10
+Fruits,Corporate,Buffet,Low,250,10
+Meat,Corporate,Finger Food,Moderate,220,15
+Meat,Corporate,Sit-down Dinner,High,270,40
+Meat,Birthday,Finger Food,Moderate,280,20
+Fruits,Wedding,Sit-down Dinner,High,300,40
+Dairy Products,Birthday,Buffet,High,320,40
+Baked Goods,Birthday,Buffet,Moderate,280,25
+Vegetables,Corporate,Finger Food,High,450,30
+Meat,Birthday,Sit-down Dinner,Low,280,15
+Meat,Corporate,Buffet,Moderate,380,30
+Vegetables,Birthday,Buffet,High,320,40
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Vegetables,Social Gathering,Finger Food,Moderate,220,20
+Dairy Products,Social Gathering,Buffet,Low,220,10
+Baked Goods,Social Gathering,Finger Food,High,310,35
+Baked Goods,Corporate,Finger Food,Moderate,220,15
+Baked Goods,Birthday,Finger Food,Moderate,280,20
+Meat,Wedding,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Finger Food,Low,280,20
+Vegetables,Wedding,Sit-down Dinner,High,350,45
+Meat,Social Gathering,Finger Food,High,400,40
+Dairy Products,Social Gathering,Finger Food,Low,250,20
+Dairy Products,Wedding,Sit-down Dinner,High,320,35
+Dairy Products,Wedding,Finger Food,Moderate,350,20
+Dairy Products,Wedding,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Buffet,High,300,40
+Baked Goods,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Corporate,Sit-down Dinner,Moderate,250,25
+Dairy Products,Wedding,Sit-down Dinner,High,380,35
+Fruits,Social Gathering,Sit-down Dinner,High,400,50
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Social Gathering,Finger Food,Moderate,320,25
+Meat,Corporate,Finger Food,Moderate,320,25
+Fruits,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Finger Food,Low,220,15
+Vegetables,Wedding,Finger Food,Low,290,27
+Fruits,Wedding,Sit-down Dinner,High,300,40
+Fruits,Corporate,Buffet,Moderate,400,30
+Fruits,Birthday,Finger Food,Moderate,342,29
+Meat,Social Gathering,Sit-down Dinner,High,292,50
+Fruits,Wedding,Finger Food,Low,320,15
+Meat,Corporate,Sit-down Dinner,Moderate,350,25
+Dairy Products,Corporate,Finger Food,Moderate,380,25
+Baked Goods,Social Gathering,Finger Food,Moderate,250,20
+Baked Goods,Social Gathering,Finger Food,Moderate,247,16
+Dairy Products,Wedding,Sit-down Dinner,Moderate,397,31
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,300,15
+Baked Goods,Wedding,Finger Food,Low,280,15
+Baked Goods,Corporate,Buffet,High,320,40
+Vegetables,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Sit-down Dinner,Low,434,36
+Meat,Corporate,Finger Food,Moderate,300,15
+Dairy Products,Corporate,Buffet,High,300,30
+Baked Goods,Birthday,Finger Food,Moderate,220,20
+Baked Goods,Wedding,Sit-down Dinner,High,400,40
+Vegetables,Social Gathering,Finger Food,Low,250,20
+Fruits,Social Gathering,Buffet,High,300,40
+Fruits,Corporate,Sit-down Dinner,High,350,40
+Vegetables,Corporate,Finger Food,Moderate,342,29
+Baked Goods,Birthday,Buffet,High,320,40
+Baked Goods,Corporate,Sit-down Dinner,Low,280,25
+Baked Goods,Birthday,Finger Food,Moderate,280,20
+Fruits,Corporate,Sit-down Dinner,Moderate,280,15
+Dairy Products,Wedding,Finger Food,Low,300,20
+Meat,Social Gathering,Finger Food,High,300,35
+Dairy Products,Wedding,Sit-down Dinner,Low,280,15
+Fruits,Social Gathering,Buffet,Low,439,39
+Dairy Products,Wedding,Sit-down Dinner,Low,380,10
+Baked Goods,Birthday,Finger Food,Moderate,247,16
+Baked Goods,Corporate,Finger Food,Moderate,220,15
+Dairy Products,Social Gathering,Finger Food,Low,280,15
+Dairy Products,Wedding,Sit-down Dinner,Low,280,15
+Vegetables,Corporate,Sit-down Dinner,High,400,40
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Fruits,Corporate,Sit-down Dinner,Moderate,438,35
+Baked Goods,Social Gathering,Finger Food,Low,220,15
+Meat,Social Gathering,Sit-down Dinner,Moderate,250,20
+Fruits,Corporate,Sit-down Dinner,High,400,35
+Vegetables,Corporate,Sit-down Dinner,Moderate,350,25
+Baked Goods,Wedding,Finger Food,Moderate,220,15
+Dairy Products,Corporate,Finger Food,Low,350,20
+Dairy Products,Birthday,Finger Food,High,350,30
+Dairy Products,Corporate,Finger Food,High,400,40
+Dairy Products,Corporate,Sit-down Dinner,High,350,35
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,230,30
+Dairy Products,Wedding,Sit-down Dinner,High,250,40
+Baked Goods,Wedding,Sit-down Dinner,Moderate,208,22
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,35
+Baked Goods,Social Gathering,Finger Food,Moderate,220,20
+Dairy Products,Corporate,Finger Food,Moderate,350,20
+Dairy Products,Social Gathering,Sit-down Dinner,Low,240,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,350,35
+Baked Goods,Birthday,Finger Food,Moderate,220,15
+Dairy Products,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Wedding,Sit-down Dinner,High,350,40
+Baked Goods,Social Gathering,Buffet,Moderate,250,20
+Meat,Social Gathering,Sit-down Dinner,Moderate,350,25
+Dairy Products,Corporate,Sit-down Dinner,Moderate,350,30
+Dairy Products,Birthday,Finger Food,Moderate,300,15
+Dairy Products,Social Gathering,Sit-down Dinner,Low,280,25
+Dairy Products,Social Gathering,Finger Food,Low,280,15
+Dairy Products,Birthday,Sit-down Dinner,High,453,54
+Dairy Products,Birthday,Finger Food,Moderate,320,25
+Baked Goods,Birthday,Sit-down Dinner,Moderate,208,22
+Dairy Products,Corporate,Finger Food,Moderate,300,15
+Dairy Products,Social Gathering,Finger Food,Moderate,280,20
+Meat,Wedding,Buffet,High,320,30
+Meat,Birthday,Buffet,High,300,40
+Meat,Wedding,Buffet,Low,302,27
+Meat,Wedding,Finger Food,High,250,35
+Fruits,Social Gathering,Buffet,High,320,40
+Baked Goods,Birthday,Buffet,Low,284,32
+Meat,Wedding,Sit-down Dinner,High,453,54
+Meat,Birthday,Sit-down Dinner,Low,400,25
+Meat,Social Gathering,Buffet,High,320,30
+Vegetables,Wedding,Sit-down Dinner,Low,434,36
+Meat,Corporate,Finger Food,Moderate,300,15
+Vegetables,Corporate,Sit-down Dinner,High,400,45
+Meat,Corporate,Finger Food,Moderate,300,25
+Meat,Wedding,Sit-down Dinner,Moderate,300,25
+Fruits,Birthday,Sit-down Dinner,Low,412,38
+Fruits,Birthday,Finger Food,High,491,32
+Meat,Social Gathering,Sit-down Dinner,Low,300,20
+Fruits,Birthday,Sit-down Dinner,High,270,40
+Baked Goods,Wedding,Sit-down Dinner,High,400,45
+Baked Goods,Corporate,Sit-down Dinner,Low,400,25
+Vegetables,Corporate,Finger Food,Moderate,300,15
+Dairy Products,Wedding,Buffet,Moderate,380,30
+Dairy Products,Corporate,Buffet,High,320,35
+Baked Goods,Birthday,Finger Food,Low,280,15
+Vegetables,Social Gathering,Finger Food,Low,350,20
+Baked Goods,Social Gathering,Buffet,Low,220,10
+Dairy Products,Wedding,Finger Food,Moderate,320,25
+Baked Goods,Birthday,Sit-down Dinner,High,350,45
+Baked Goods,Corporate,Sit-down Dinner,Low,412,38
+Baked Goods,Social Gathering,Finger Food,Low,220,15
+Fruits,Wedding,Sit-down Dinner,Moderate,350,25
+Vegetables,Birthday,Finger Food,Moderate,320,25
+Vegetables,Corporate,Sit-down Dinner,Moderate,350,25
+Vegetables,Wedding,Sit-down Dinner,Moderate,250,25
+Fruits,Social Gathering,Sit-down Dinner,Low,429,42
+Baked Goods,Wedding,Sit-down Dinner,Low,280,23
+Dairy Products,Birthday,Sit-down Dinner,High,400,35
+Dairy Products,Social Gathering,Finger Food,Low,300,20
+Dairy Products,Wedding,Sit-down Dinner,Low,280,15
+Baked Goods,Social Gathering,Finger Food,High,400,40
+Baked Goods,Wedding,Sit-down Dinner,High,400,40
+Dairy Products,Corporate,Finger Food,Moderate,300,25
+Dairy Products,Birthday,Sit-down Dinner,Moderate,208,22
+Vegetables,Social Gathering,Sit-down Dinner,Moderate,230,30
+Dairy Products,Birthday,Sit-down Dinner,Low,220,15
+Dairy Products,Social Gathering,Buffet,Moderate,300,30
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,300,15
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,208,22
+Fruits,Social Gathering,Sit-down Dinner,Moderate,261,23
+Meat,Birthday,Buffet,High,320,40
+Fruits,Wedding,Buffet,High,300,40
+Meat,Birthday,Finger Food,High,491,32
+Meat,Corporate,Buffet,Low,220,10
+Meat,Wedding,Finger Food,Low,275,16
+Dairy Products,Social Gathering,Finger Food,Moderate,350,20
+Dairy Products,Corporate,Sit-down Dinner,Moderate,300,25
+Dairy Products,Social Gathering,Sit-down Dinner,High,320,35
+Meat,Birthday,Buffet,Moderate,300,30
+Meat,Wedding,Finger Food,Moderate,320,25
+Meat,Corporate,Buffet,Moderate,380,30
+Baked Goods,Wedding,Buffet,Low,250,10
+Baked Goods,Corporate,Buffet,High,250,40
+Vegetables,Wedding,Buffet,Low,300,20
+Meat,Wedding,Finger Food,Moderate,250,20
+Meat,Social Gathering,Buffet,High,320,30
+Meat,Corporate,Sit-down Dinner,Low,250,20
+Meat,Birthday,Sit-down Dinner,High,350,45
+Meat,Wedding,Sit-down Dinner,High,380,35
+Meat,Birthday,Finger Food,High,400,40
+Fruits,Corporate,Finger Food,Low,350,20
+Vegetables,Wedding,Sit-down Dinner,High,400,50
+Fruits,Wedding,Finger Food,Low,350,10
+Fruits,Wedding,Sit-down Dinner,High,250,40
+Fruits,Birthday,Finger Food,Low,280,15
+Fruits,Corporate,Sit-down Dinner,High,400,50
+Meat,Birthday,Finger Food,Moderate,300,25
+Baked Goods,Corporate,Finger Food,Low,220,15
+Fruits,Social Gathering,Buffet,High,320,40
+Meat,Corporate,Sit-down Dinner,Low,230,20
+Meat,Corporate,Sit-down Dinner,High,453,54
+Fruits,Wedding,Sit-down Dinner,High,380,35
+Vegetables,Corporate,Buffet,High,320,40
+Meat,Social Gathering,Finger Food,High,491,32
+Fruits,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Wedding,Sit-down Dinner,Low,400,25
+Fruits,Social Gathering,Finger Food,High,450,30
+Vegetables,Corporate,Finger Food,Moderate,220,15
+Fruits,Corporate,Sit-down Dinner,Moderate,261,23
+Meat,Corporate,Sit-down Dinner,Moderate,320,25
+Dairy Products,Wedding,Sit-down Dinner,High,250,40
+Baked Goods,Social Gathering,Finger Food,Low,220,20
+Baked Goods,Wedding,Sit-down Dinner,High,292,50
+Dairy Products,Corporate,Finger Food,Moderate,320,20
+Dairy Products,Corporate,Finger Food,Moderate,300,25
+Baked Goods,Birthday,Sit-down Dinner,High,453,54
+Baked Goods,Wedding,Sit-down Dinner,High,320,35
+Dairy Products,Birthday,Finger Food,Low,320,15
+Dairy Products,Birthday,Finger Food,Low,220,15
+Dairy Products,Social Gathering,Finger Food,High,310,35
+Fruits,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Corporate,Sit-down Dinner,Low,230,30
+Baked Goods,Wedding,Sit-down Dinner,Moderate,250,20
+Baked Goods,Social Gathering,Sit-down Dinner,Moderate,397,31
+Baked Goods,Social Gathering,Finger Food,Moderate,300,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,250,20
+Meat,Social Gathering,Buffet,High,320,40
+Vegetables,Wedding,Finger Food,Low,280,20
+Meat,Social Gathering,Buffet,High,320,30
+Dairy Products,Wedding,Sit-down Dinner,Moderate,438,35
+Vegetables,Social Gathering,Sit-down Dinner,Low,412,38
+Dairy Products,Wedding,Sit-down Dinner,High,300,35
+Dairy Products,Wedding,Sit-down Dinner,High,400,40
+Dairy Products,Social Gathering,Finger Food,High,350,30
+Meat,Corporate,Finger Food,Low,280,20
+Fruits,Birthday,Buffet,High,320,30
+Baked Goods,Birthday,Buffet,Low,367,40
+Vegetables,Wedding,Buffet,Low,220,10
+Baked Goods,Corporate,Sit-down Dinner,Moderate,250,25
+Dairy Products,Social Gathering,Sit-down Dinner,High,320,35
+Baked Goods,Social Gathering,Finger Food,Low,350,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,320,35
+Dairy Products,Social Gathering,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Finger Food,Moderate,220,15
+Dairy Products,Social Gathering,Finger Food,High,310,35
+Baked Goods,Social Gathering,Finger Food,Moderate,342,29
+Dairy Products,Social Gathering,Finger Food,Low,350,20
+Meat,Wedding,Sit-down Dinner,High,400,40
+Vegetables,Birthday,Buffet,Low,302,27
+Fruits,Wedding,Sit-down Dinner,High,400,40
+Meat,Corporate,Sit-down Dinner,Low,250,25
+Meat,Birthday,Sit-down Dinner,High,453,54
+Meat,Wedding,Sit-down Dinner,Moderate,208,22
+Meat,Wedding,Finger Food,Moderate,320,25
+Fruits,Wedding,Sit-down Dinner,High,292,50
+Meat,Wedding,Sit-down Dinner,Low,240,20
+Meat,Wedding,Finger Food,Moderate,220,15
+Meat,Wedding,Sit-down Dinner,High,350,35
+Vegetables,Wedding,Finger Food,Moderate,220,15
+Meat,Corporate,Sit-down Dinner,Moderate,380,30
+Baked Goods,Birthday,Buffet,Moderate,320,25
+Fruits,Corporate,Finger Food,High,350,30
+Vegetables,Corporate,Sit-down Dinner,High,350,35
+Fruits,Birthday,Finger Food,Moderate,280,20
+Meat,Corporate,Sit-down Dinner,High,400,40
+Fruits,Corporate,Finger Food,Moderate,320,25
+Baked Goods,Corporate,Finger Food,High,400,40
+Fruits,Corporate,Sit-down Dinner,Low,280,25
+Fruits,Wedding,Sit-down Dinner,High,320,35
+Vegetables,Social Gathering,Buffet,High,320,30
+Fruits,Birthday,Sit-down Dinner,Moderate,350,25
+Baked Goods,Wedding,Finger Food,High,400,40
+Fruits,Birthday,Sit-down Dinner,High,350,40
+Meat,Corporate,Sit-down Dinner,Moderate,350,30
+Baked Goods,Wedding,Finger Food,Moderate,300,15
+Meat,Wedding,Sit-down Dinner,Moderate,350,25
+Vegetables,Wedding,Sit-down Dinner,High,400,40
+Vegetables,Birthday,Finger Food,Moderate,280,20
+Vegetables,Social Gathering,Finger Food,Low,220,15
+Baked Goods,Corporate,Buffet,Moderate,350,30
+Fruits,Social Gathering,Buffet,Moderate,380,30
+Fruits,Social Gathering,Buffet,High,300,30
+Dairy Products,Birthday,Buffet,Low,284,32
+Fruits,Wedding,Sit-down Dinner,Moderate,250,20
+Vegetables,Wedding,Sit-down Dinner,High,400,40
+Baked Goods,Wedding,Sit-down Dinner,High,350,45
+Fruits,Wedding,Sit-down Dinner,High,400,50
+Meat,Social Gathering,Finger Food,Moderate,280,20
+Baked Goods,Birthday,Sit-down Dinner,High,350,45
+Vegetables,Social Gathering,Finger Food,Moderate,220,30
+Fruits,Social Gathering,Sit-down Dinner,High,400,45
+Baked Goods,Corporate,Finger Food,Moderate,220,15
+Dairy Products,Wedding,Sit-down Dinner,Low,230,20
+Dairy Products,Wedding,Sit-down Dinner,Moderate,438,35
+Vegetables,Social Gathering,Sit-down Dinner,High,300,35
+Dairy Products,Corporate,Buffet,High,300,30
+Fruits,Social Gathering,Sit-down Dinner,Low,280,25
+Dairy Products,Birthday,Sit-down Dinner,Moderate,350,25
+Vegetables,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Sit-down Dinner,Moderate,250,25
+Dairy Products,Corporate,Finger Food,Moderate,342,29
+Baked Goods,Social Gathering,Buffet,Moderate,380,30
+Dairy Products,Birthday,Finger Food,Moderate,300,25
+Baked Goods,Wedding,Sit-down Dinner,Moderate,350,25
+Baked Goods,Corporate,Buffet,High,300,40
+Meat,Social Gathering,Sit-down Dinner,High,300,35
+Fruits,Social Gathering,Sit-down Dinner,Low,400,25
+Fruits,Birthday,Sit-down Dinner,Moderate,300,15
+Dairy Products,Wedding,Sit-down Dinner,High,400,50
+Vegetables,Birthday,Sit-down Dinner,Low,280,15
+Dairy Products,Birthday,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Finger Food,Moderate,250,20
+Dairy Products,Corporate,Finger Food,Low,280,20
+Dairy Products,Wedding,Sit-down Dinner,Moderate,250,25
+Dairy Products,Wedding,Sit-down Dinner,High,350,40
+Baked Goods,Corporate,Sit-down Dinner,Moderate,250,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,50
+Baked Goods,Social Gathering,Finger Food,Low,290,27
+Dairy Products,Wedding,Sit-down Dinner,High,350,35
+Baked Goods,Social Gathering,Finger Food,High,491,32
+Baked Goods,Birthday,Sit-down Dinner,Moderate,350,30
+Dairy Products,Birthday,Sit-down Dinner,High,400,45
+Fruits,Social Gathering,Sit-down Dinner,Moderate,250,25
+Dairy Products,Corporate,Sit-down Dinner,Low,220,15
+Baked Goods,Social Gathering,Sit-down Dinner,High,320,40
+Dairy Products,Birthday,Sit-down Dinner,High,320,40
+Baked Goods,Wedding,Sit-down Dinner,Moderate,250,20
+Baked Goods,Birthday,Sit-down Dinner,Moderate,250,20
+Meat,Birthday,Buffet,Low,284,32
+Meat,Corporate,Buffet,Low,280,20
+Meat,Wedding,Buffet,Low,300,20
+Meat,Corporate,Buffet,High,300,40
+Meat,Wedding,Sit-down Dinner,Low,412,38
+Meat,Wedding,Sit-down Dinner,Low,434,36
+Meat,Birthday,Finger Food,High,250,30
+Fruits,Birthday,Finger Food,Low,280,20
+Meat,Social Gathering,Buffet,Low,300,20
+Meat,Wedding,Sit-down Dinner,Low,300,20
+Meat,Wedding,Sit-down Dinner,High,400,40
+Meat,Social Gathering,Buffet,High,320,30
+Meat,Social Gathering,Buffet,Low,250,10
+Vegetables,Corporate,Buffet,High,320,30
+Meat,Social Gathering,Buffet,Low,300,20
+Meat,Corporate,Finger Food,Moderate,320,25
+Fruits,Birthday,Sit-down Dinner,High,400,40
+Meat,Social Gathering,Finger Food,Low,310,25
+Fruits,Wedding,Finger Food,High,250,30
+Meat,Corporate,Finger Food,Moderate,300,25
+Vegetables,Birthday,Finger Food,Moderate,300,15
+Vegetables,Corporate,Sit-down Dinner,Low,280,15
+Baked Goods,Wedding,Sit-down Dinner,Low,434,36
+Fruits,Social Gathering,Finger Food,Low,280,20
+Fruits,Corporate,Sit-down Dinner,High,400,35
+Baked Goods,Social Gathering,Buffet,High,300,30
+Meat,Wedding,Sit-down Dinner,High,350,45
+Meat,Wedding,Sit-down Dinner,Moderate,250,20
+Meat,Wedding,Sit-down Dinner,Moderate,230,30
+Meat,Social Gathering,Finger Food,Moderate,220,15
+Fruits,Corporate,Finger Food,Moderate,280,20
+Fruits,Social Gathering,Buffet,High,300,30
+Baked Goods,Wedding,Sit-down Dinner,High,400,50
+Dairy Products,Birthday,Finger Food,Moderate,280,20
+Baked Goods,Birthday,Finger Food,Low,300,20
+Baked Goods,Social Gathering,Finger Food,Low,280,20
+Meat,Social Gathering,Sit-down Dinner,High,350,45
+Vegetables,Wedding,Sit-down Dinner,Moderate,300,25
+Meat,Social Gathering,Finger Food,Moderate,320,25
+Dairy Products,Social Gathering,Sit-down Dinner,Moderate,230,30
+Meat,Corporate,Buffet,Low,300,20
+Fruits,Social Gathering,Finger Food,Low,350,10
+Dairy Products,Social Gathering,Finger Food,High,250,35
+Dairy Products,Corporate,Sit-down Dinner,High,350,45
+Fruits,Wedding,Buffet,High,350,40
+Fruits,Wedding,Sit-down Dinner,Low,250,25
+Fruits,Wedding,Finger Food,Moderate,320,25
+Meat,Birthday,Sit-down Dinner,Low,267,24
+Fruits,Corporate,Sit-down Dinner,Low,400,25
+Fruits,Corporate,Finger Food,High,350,54
+Meat,Corporate,Finger Food,Moderate,300,20
+Fruits,Birthday,Buffet,Low,439,36
+Baked Goods,Wedding,Finger Food,Low,275,16
+Vegetables,Social Gathering,Buffet,High,320,30
+Fruits,Corporate,Finger Food,Low,250,20
+Fruits,Wedding,Finger Food,Moderate,300,15
+Vegetables,Corporate,Finger Food,Low,220,15
+Meat,Wedding,Sit-down Dinner,High,350,35
+Baked Goods,Corporate,Finger Food,Low,250,20
+Vegetables,Wedding,Sit-down Dinner,Low,280,20
+Dairy Products,Birthday,Buffet,High,320,40
+Vegetables,Wedding,Sit-down Dinner,Moderate,230,30
+Vegetables,Birthday,Sit-down Dinner,High,250,40
+Vegetables,Social Gathering,Buffet,Moderate,300,30
+Vegetables,Wedding,Sit-down Dinner,Moderate,261,23
+Fruits,Corporate,Finger Food,High,300,35
+Dairy Products,Birthday,Sit-down Dinner,Low,280,25
+Baked Goods,Birthday,Sit-down Dinner,Moderate,261,24
+Dairy Products,Corporate,Buffet,Moderate,380,30
+Baked Goods,Social Gathering,Finger Food,Moderate,220,15
+Fruits,Social Gathering,Finger Food,High,250,30
+Vegetables,Wedding,Sit-down Dinner,Low,429,42
+Baked Goods,Corporate,Finger Food,Low,300,15
+Dairy Products,Wedding,Sit-down Dinner,Moderate,350,25
+Dairy Products,Social Gathering,Sit-down Dinner,High,400,50
+Meat,Wedding,Finger Food,High,491,32
+Meat,Corporate,Buffet,Low,250,10
+Baked Goods,Wedding,Finger Food,Moderate,280,15
+Meat,Birthday,Sit-down Dinner,Moderate,438,35
+Baked Goods,Social Gathering,Buffet,Low,472,36
+Baked Goods,Corporate,Sit-down Dinner,High,400,40
+Baked Goods,Birthday,Sit-down Dinner,Low,300,20
+Vegetables,Wedding,Sit-down Dinner,High,320,35
+Vegetables,Corporate,Finger Food,Moderate,250,20
+Dairy Products,Wedding,Finger Food,High,400,40
+Dairy Products,Birthday,Finger Food,Low,280,15
+Baked Goods,Social Gathering,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Sit-down Dinner,High,400,40
+Dairy Products,Wedding,Sit-down Dinner,High,350,45
+Dairy Products,Birthday,Sit-down Dinner,Low,400,25
+Baked Goods,Corporate,Sit-down Dinner,Moderate,350,25
+Dairy Products,Wedding,Finger Food,High,400,40
+Baked Goods,Corporate,Sit-down Dinner,High,292,50
+Baked Goods,Social Gathering,Finger Food,Moderate,320,25
+Baked Goods,Social Gathering,Finger Food,High,450,30
+Fruits,Social Gathering,Finger Food,Moderate,280,20
+Meat,Corporate,Buffet,Moderate,380,30
+Meat,Corporate,Finger Food,High,207,20
+Meat,Birthday,Finger Food,High,491,38
+Meat,Corporate,Sit-down Dinner,Low,267,24
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Corporate,Finger Food,Moderate,280,20
+Dairy Products,Corporate,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Sit-down Dinner,High,400,50
+Dairy Products,Birthday,Finger Food,Moderate,320,20
+Dairy Products,Social Gathering,Finger Food,Moderate,280,20
+Baked Goods,Social Gathering,Finger Food,High,491,32
+Dairy Products,Corporate,Sit-down Dinner,Moderate,438,35
+Dairy Products,Corporate,Sit-down Dinner,Moderate,350,25
+Baked Goods,Social Gathering,Sit-down Dinner,Low,442,32
+Meat,Corporate,Sit-down Dinner,High,270,40
+Meat,Social Gathering,Buffet,Low,284,32
+Meat,Wedding,Sit-down Dinner,Low,250,25
+Meat,Corporate,Finger Food,Moderate,320,25
+Meat,Wedding,Finger Food,Moderate,220,15
+Meat,Social Gathering,Buffet,Low,367,40
+Meat,Birthday,Sit-down Dinner,High,434,36
+Meat,Birthday,Sit-down Dinner,Low,240,20
+Fruits,Birthday,Buffet,Moderate,380,30
+Dairy Products,Birthday,Buffet,High,320,40
+Fruits,Social Gathering,Finger Food,Low,250,20
+Fruits,Corporate,Buffet,Low,302,27
+Vegetables,Corporate,Sit-down Dinner,Low,267,24
+Fruits,Corporate,Buffet,Moderate,320,25
+Meat,Corporate,Sit-down Dinner,High,350,45
+Vegetables,Birthday,Finger Food,Moderate,300,15
+Dairy Products,Birthday,Buffet,Low,472,36
+Fruits,Corporate,Buffet,Moderate,380,30
+Vegetables,Wedding,Sit-down Dinner,Low,429,42
+Baked Goods,Birthday,Finger Food,Low,220,15
+Meat,Social Gathering,Finger Food,Low,220,15
+Fruits,Corporate,Sit-down Dinner,Moderate,350,30
+Dairy Products,Corporate,Finger Food,High,250,30
+Fruits,Wedding,Sit-down Dinner,Moderate,230,30
+Meat,Corporate,Buffet,High,320,45
+Meat,Wedding,Buffet,Low,310,25
+Fruits,Birthday,Finger Food,High,491,32
+Meat,Birthday,Finger Food,High,491,32
+Meat,Birthday,Finger Food,Moderate,280,20
+Meat,Corporate,Sit-down Dinner,High,292,50
+Vegetables,Wedding,Buffet,High,300,30
+Vegetables,Social Gathering,Buffet,Low,280,20
+Meat,Corporate,Finger Food,Moderate,300,25
+Vegetables,Wedding,Sit-down Dinner,High,380,35
+Fruits,Birthday,Buffet,Moderate,380,30
+Fruits,Wedding,Sit-down Dinner,High,400,45
+Fruits,Wedding,Sit-down Dinner,High,350,35
+Meat,Birthday,Finger Food,Moderate,320,20
+Fruits,Wedding,Sit-down Dinner,Low,429,42
+Vegetables,Corporate,Sit-down Dinner,High,350,35
+Fruits,Birthday,Finger Food,High,491,32
+Meat,Birthday,Sit-down Dinner,Moderate,350,25
+Meat,Social Gathering,Finger Food,High,491,32
+Baked Goods,Corporate,Finger Food,High,310,35
+Baked Goods,Social Gathering,Buffet,Low,284,32
+Fruits,Wedding,Finger Food,Moderate,220,15
+Fruits,Wedding,Finger Food,Moderate,250,20

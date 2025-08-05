@@ -1,31 +1,56 @@
 import numpy as np
-from utils.GradientDescentUtils import compute_cost, predict_y, update_parameters
+import pandas as pd
+from typing import Optional, Any
+from utils.GradientDescentUtils import normalize_z, prepare_feature,calc_linreg, compute_cost_linreg
 
-def initialize(dim):
-  w1 = np.random.rand(dim)
-  w0 = np.random.rand()
-  return w1, w0
+def predict_linreg(array_feature: np.ndarray, beta: np.ndarray, 
+                   means: Optional[np.ndarray]=None, 
+                   stds: Optional[np.ndarray]=None) -> np.ndarray:
+    # Standardize the feature using z normalization
+    array_feature,_,_ = normalize_z(array_feature, columns_means=means, columns_stds=stds)
+    # Add a column of constant 1s for the intercept
+    X = prepare_feature(array_feature)
+    # Calculate predicted y values
+    result = calc_linreg(X, beta)
+    assert result.shape == (array_feature.shape[0], 1)
+    return result
 
-def run_gradient_descent(X,Y,alpha,max_iterations,stopping_threshold = 1e-6):
-  # dims = 1
-  # if len(X.shape)>1:
-  dims = X.shape[1]
-  w1,w0=initialize(dims)
-  previous_cost = None
-  cost_history = np.zeros(max_iterations)
-  for itr in range(max_iterations):
-    y_hat=predict_y(X,w1,w0)
-    cost=compute_cost(X,Y,y_hat)
-    # early stopping criteria
-    if previous_cost and abs(previous_cost-cost)<=stopping_threshold:
-      break
-    cost_history[itr]=cost
-    previous_cost = cost
-    old_w1=w1
-    old_w0=w0
-    w0,w1=update_parameters(X,Y,y_hat,cost,old_w0,old_w1,alpha)
+def gradient_descent_linreg(X: np.ndarray, y: np.ndarray, beta: np.ndarray, 
+                            alpha: float, num_iters: int) -> tuple[np.ndarray, np.ndarray]:
+    m = X.shape[0]
+    J_storage = np.zeros((num_iters, 1))
+    for i in range(num_iters):
+        y_pred = calc_linreg(X, beta)
+        gradient = (1/m) * np.matmul(X.T, (y_pred - y))
+        beta = beta - alpha * gradient
+        J_storage[i, 0] = compute_cost_linreg(X, y, beta)
+    assert beta.shape == (X.shape[1], 1)
+    assert J_storage.shape == (num_iters, 1)
+    return beta, J_storage
 
-  return w0,w1,cost_history
+def build_model_linreg(df_feature_train: pd.DataFrame,
+                       df_target_train: pd.DataFrame,
+                       beta: Optional[np.ndarray] = None,
+                       alpha: float = 0.01,
+                       iterations: int = 1500) -> tuple[dict[str, Any], np.ndarray]:
+    if beta is None:
+        beta = np.zeros((df_feature_train.shape[1] + 1, 1)) 
+    assert beta.shape == (df_feature_train.shape[1] + 1, 1)
 
-# Reference for Gradient Descent 
-# https://medium.com/@pritioli/implementing-linear-regression-from-scratch-747343634494
+    model: dict[str, Any] = {}
+
+    array_feature_train_z, means, stds = normalize_z(df_feature_train.to_numpy())
+    X: np.ndarray = prepare_feature(array_feature_train_z)
+    target: np.ndarray = df_target_train.to_numpy()
+    beta, J_storage = gradient_descent_linreg(X, target, beta, alpha, iterations)
+
+    model["beta"] = beta
+    model["means"] = means
+    model["stds"] = stds
+
+    assert model["beta"].shape == (df_feature_train.shape[1] + 1, 1)
+    assert model["means"].shape == (1, df_feature_train.shape[1])
+    assert model["stds"].shape == (1, df_feature_train.shape[1])
+    assert J_storage.shape == (iterations, 1)
+    
+    return model, J_storage

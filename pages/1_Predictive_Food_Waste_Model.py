@@ -7,7 +7,7 @@ from library import predict_food_waste
 st.set_page_config(page_title="Food Waste Predictor", page_icon="📈")
 
 url = './datasets/food_wastage_data.csv'
-independent_variables = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Geographical Location', 'Number of Guests']
+independent_variables = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Geographical Location', 'Quantity of Food']
 options = get_column_options(url)
 
 # Initialize session state

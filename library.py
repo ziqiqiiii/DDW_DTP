@@ -17,7 +17,7 @@ df = pd.read_csv(url)
 df.drop_duplicates(inplace=True)
 
 # === Define Features and Target ===
-independent_variable = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Number of Guests', 'Geographical Location']
+independent_variable = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Quantity of Food', 'Geographical Location']
 dependent_variable = ['Wastage Food Amount']
 
 # === Extract Features and Target into Dict ===
@@ -51,7 +51,7 @@ def map_raw_input_to_one_hot(raw_input: dict, feature_columns: list[str]) -> dic
 
     # Set numeric field directly
     if 'Number of Guests' in feature_columns:
-        one_hot_input['Number of Guests'] = raw_input.get('Number of Guests', 0)
+        one_hot_input['Quantity of Food'] = raw_input.get('Quantity of Food', 0)
 
     # One-hot encode categorical fields
     for key, value in raw_input.items():
@@ -67,7 +67,6 @@ def predict_food_waste(input_row, feature_columns=feature_columns, model=model):
     #input_encoded = pd.get_dummies(input_df, drop_first=True)
     input_encoded = input_df.reindex(columns=feature_columns, fill_value=0)
 
-    print(input_encoded)
     input_np, _, _ = normalize_z(
         input_encoded.to_numpy(),
         columns_means=model["means"],

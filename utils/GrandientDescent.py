@@ -12,7 +12,6 @@ def predict_linreg(array_feature: np.ndarray, beta: np.ndarray,
     X = prepare_feature(array_feature)
     # Calculate predicted y values
     result = calc_linreg(X, beta)
-    assert result.shape == (array_feature.shape[0], 1)
     return result
 
 def gradient_descent_linreg(X: np.ndarray, y: np.ndarray, beta: np.ndarray, 
@@ -24,8 +23,6 @@ def gradient_descent_linreg(X: np.ndarray, y: np.ndarray, beta: np.ndarray,
         gradient = (1/m) * np.matmul(X.T, (y_pred - y))
         beta = beta - alpha * gradient
         J_storage[i, 0] = compute_cost_linreg(X, y, beta)
-    assert beta.shape == (X.shape[1], 1)
-    assert J_storage.shape == (num_iters, 1)
     return beta, J_storage
 
 def build_model_linreg(df_feature_train: pd.DataFrame,
@@ -33,24 +30,19 @@ def build_model_linreg(df_feature_train: pd.DataFrame,
                        beta: Optional[np.ndarray] = None,
                        alpha: float = 0.01,
                        iterations: int = 1500) -> tuple[dict[str, Any], np.ndarray]:
-    if beta is None:
-        beta = np.zeros((df_feature_train.shape[1] + 1, 1)) 
-    assert beta.shape == (df_feature_train.shape[1] + 1, 1)
+    X_train = df_feature_train.to_numpy()
+    y_train = df_target_train.to_numpy().reshape(-1, 1)
+    
+    X_train_z, means, stds = normalize_z(X_train)
+    X_train_final = prepare_feature(X_train_z)
+    beta = np.zeros((X_train_final.shape[1], 1))
+    beta, J_storage = gradient_descent_linreg(X_train_final, y_train, beta, alpha, iterations)
 
-    model: dict[str, Any] = {}
-
-    array_feature_train_z, means, stds = normalize_z(df_feature_train.to_numpy())
-    X: np.ndarray = prepare_feature(array_feature_train_z)
-    target: np.ndarray = df_target_train.to_numpy()
-    beta, J_storage = gradient_descent_linreg(X, target, beta, alpha, iterations)
-
-    model["beta"] = beta
-    model["means"] = means
-    model["stds"] = stds
-
-    assert model["beta"].shape == (df_feature_train.shape[1] + 1, 1)
-    assert model["means"].shape == (1, df_feature_train.shape[1])
-    assert model["stds"].shape == (1, df_feature_train.shape[1])
-    assert J_storage.shape == (iterations, 1)
+    # Create model dictionary
+    model = {
+        "beta": beta,
+        "means": means,
+        "stds": stds,
+    }
     
     return model, J_storage

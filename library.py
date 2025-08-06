@@ -17,10 +17,7 @@ df = pd.read_csv(url)
 df.drop_duplicates(inplace=True)
 
 # === Define Features and Target ===
-independent_variable = [
-    'Type of Food', 'Event Type', 'Preparation Method', 
-    'Pricing', 'Number of Guests', 'Geographical Location'
-]
+independent_variable = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Number of Guests', 'Geographical Location']
 dependent_variable = ['Wastage Food Amount']
 
 # === Extract Features and Target into Dict ===
@@ -67,8 +64,8 @@ def map_raw_input_to_one_hot(raw_input: dict, feature_columns: list[str]) -> dic
 def predict_food_waste(input_row, feature_columns=feature_columns, model=model):
     one_hot_input = map_raw_input_to_one_hot(input_row, feature_columns)
     input_df = pd.DataFrame([one_hot_input])
-    input_encoded = pd.get_dummies(input_df, drop_first=True)
-    input_encoded = input_encoded.reindex(columns=feature_columns, fill_value=0)
+    #input_encoded = pd.get_dummies(input_df, drop_first=True)
+    input_encoded = input_df.reindex(columns=feature_columns, fill_value=0)
 
     print(input_encoded)
     input_np, _, _ = normalize_z(

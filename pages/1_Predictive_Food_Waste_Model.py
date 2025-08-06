@@ -28,3 +28,4 @@ if submit:
     input_data = {iv: st.session_state[iv] for iv in independent_variables}
     prediction = predict_food_waste(input_data)
     st.success(f"🧠 Predicted Food Waste: {prediction:.2f} kg")
+    

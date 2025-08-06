@@ -9,8 +9,12 @@ def normalize_z(array: np.ndarray, columns_means: Optional[np.ndarray]=None,
     if columns_means is None:
         columns_means = array.mean(axis=0).reshape(1, -1)
     if columns_stds is None:
-        columns_stds = array.std(axis=0).reshape(1, -1)    
-    out = (out - columns_means[0]) / columns_stds[0]
+        columns_stds = array.std(axis=0).reshape(1, -1)
+
+    # Avoid divide-by-zero: Replace 0 stds with 1 (no scaling)
+    safe_stds = np.where(columns_stds == 0, 1, columns_stds)
+
+    out = (out - columns_means[0]) / safe_stds[0]
     return out, columns_means, columns_stds
 
 def get_features_targets(df: pd.DataFrame, 

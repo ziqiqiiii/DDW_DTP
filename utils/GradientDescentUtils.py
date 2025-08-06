@@ -16,7 +16,7 @@ def normalize_z(array: np.ndarray, columns_means: Optional[np.ndarray]=None,
 def get_features_targets(df: pd.DataFrame, 
                          feature_names: list[str], 
                          target_names: list[str]) -> tuple[pd.DataFrame, pd.DataFrame]:
-    df_feature = df[feature_names].copy()
+    df_feature = pd.get_dummies(df[feature_names], drop_first=True).astype(int)
     df_target = df[target_names].copy() if target_names else pd.DataFrame()
     return df_feature, df_target
 

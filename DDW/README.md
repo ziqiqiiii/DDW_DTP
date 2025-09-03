@@ -16,6 +16,7 @@
 A Streamlit-powered web application designed to predict and visualize future food waste quantities in restaurant and event settings.
 Users input key operational variables—such as food type, preparation method, event type, and guest count—and receive real-time predictions powered by a Multiple Linear Regression (MLR) model. 
 The tool is intended to support data-driven decision-making for event planners, chefs, and sustainability officers aiming to reduce overproduction and improve planning accuracy.
+
 ---
 
 ## Key Features

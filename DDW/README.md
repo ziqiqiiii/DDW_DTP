@@ -53,14 +53,15 @@ python -m pipenv install
 ```
 
 3. 
-    ``` bash
-    python -m pipenv shell
-    ```
-    or 
-    ``` bash
-    python -m pipenv run
-    ```
-
+   >- Open a new tab of terminal, and run:
+   >``` bash
+   >python -m pipenv shell
+   >```
+   > OR 
+   >- ``` bash
+   >- python -m pipenv run
+   >- ```
+   
 4. 
 ``` bash
 streamlit run Home.py

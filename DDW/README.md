@@ -13,17 +13,19 @@
 
 ## 📝 Overview
 
-A Streamlit-powered web application designed to predict and visualize future food waste quantities in restaurant and event settings. Users input key operational variables—such as food type, preparation method, event type, and guest count—and receive real-time predictions powered by a Multiple Linear Regression (MLR) model. The tool is intended to support data-driven decision-making for event planners, chefs, and sustainability officers aiming to reduce overproduction and improve planning accuracy.  
+A Streamlit-powered web application designed to predict and visualize future food waste quantities in restaurant and event settings.
+Users input key operational variables—such as food type, preparation method, event type, and guest count—and receive real-time predictions powered by a Multiple Linear Regression (MLR) model. 
+The tool is intended to support data-driven decision-making for event planners, chefs, and sustainability officers aiming to reduce overproduction and improve planning accuracy.
 ---
 
 ## Key Features
 
-- **Future Waste Prediction** using multiple operational indicators
-- **Interactive Input Form** for food type, event type, number of guests, and more
-- **Regression Model Evaluation** with metrics such as MAE, RMSE, and MAPE
-- **Visual Analytics Dashboard** with bar charts, scatter plots, and heatmaps
-- **Streamlit Interface** enabling real-time simulation and planning support
-- **Modular Python Codebase** built with pandas, scikit-learn, and matplotlib
+- `Future Waste Prediction` using multiple operational indicators
+- `Interactive Input Form` for food type, event type, number of guests, and more
+- `Regression Model Evaluation` with metrics such as MAE, RMSE, and MAPE
+- `Visual Analytics Dashboard` with bar charts, scatter plots, and heatmaps
+- `Streamlit Interface` enabling real-time simulation and planning support
+- `Modular Python Codebase` built with pandas, scikit-learn, and matplotlib
 ---
 
 ## Getting started (Jupyter Notebook)

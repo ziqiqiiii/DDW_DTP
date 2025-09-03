@@ -52,6 +52,7 @@ pip install pipenv
 python -m pipenv install
 ```
 
+
 3.
 >``` bash
 > python -m pipenv shell
@@ -60,6 +61,7 @@ python -m pipenv install
 > ``` bash
 > python -m pipenv run
 > ```
+
 
 4. 
 ``` bash

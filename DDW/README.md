@@ -54,12 +54,12 @@ python -m pipenv install
 
 3. 
    >``` bash
-   >python -m pipenv shell
+   > python -m pipenv shell
    >```
    > OR 
-   >- ``` bash
-   >- python -m pipenv run
-   >- ```
+   > ``` bash
+   > python -m pipenv run
+   > ```
 
 4. 
 ``` bash

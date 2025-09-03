@@ -4,11 +4,8 @@
 ## Table of Contents
 - [Overview](#-overview)
 - [Getting started (Jupyter Notebook)](#getting-started-jupyter-notebook)
-- [Description](#descripton)
+- [Getting started (Streamlit WebApp)](#getting-started-streamlit-webapp)
 - [Features](#features)
-- [Command Examples](#)
-- [Reference](#reference)
-- [Contribution](#contribution)
 ---
 
 ## 📝 Overview
@@ -69,3 +66,4 @@ conda activate ddw_dtp
     ```
 ---
 
+## Features

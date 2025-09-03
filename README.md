@@ -68,7 +68,7 @@ This repository is organized by component to reflect the interdisciplinary natur
 │   ├── /notebooks/ # Jupyter notebooks
 │   │   └── Project Template.ipynb
 │       └── /utils/
-│   └── /code/ # Streamlit app + DDW README
+│   └── /streamlit/ # Streamlit app + DDW README
 │       ├── Home.py
 │       ├── library.py
 │       ├── README.md

@@ -65,5 +65,3 @@ conda activate ddw_dtp
     streamlit run Home.py
     ```
 ---
-
-## Features

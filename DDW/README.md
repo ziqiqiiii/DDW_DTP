@@ -43,29 +43,29 @@ conda activate ddw_dtp
 
 ## Getting started (Streamlit WebApp)
 1.
-``` bash
-pip install pipenv
-```
+    ``` bash
+    pip install pipenv
+    ```
 
 2. 
-``` bash
-python -m pipenv install
-```
+    ``` bash
+    python -m pipenv install
+    ```
 
 
 3.
->``` bash
-> python -m pipenv shell
->```
-> OR 
-> ``` bash
-> python -m pipenv run
-> ```
+    >``` bash
+    > python -m pipenv shell
+    >```
+    > OR 
+    > ``` bash
+    > python -m pipenv run
+    > ```
 
 
 4. 
-``` bash
-streamlit run Home.py
-```
+    ``` bash
+    streamlit run Home.py
+    ```
 ---
 

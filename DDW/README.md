@@ -58,7 +58,7 @@ python -m pipenv install
    >```
    > OR 
    >- ``` bash
-   python -m pipenv run
+   >- python -m pipenv run
    >- ```
 
 4. 

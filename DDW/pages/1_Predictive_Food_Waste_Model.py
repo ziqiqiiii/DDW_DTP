@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from utils.Utils import get_column_options
-from library import predict_food_waste
+from DDW.library import predict_food_waste
 
 st.set_page_config(page_title="Food Waste Predictor", page_icon="📈")
 

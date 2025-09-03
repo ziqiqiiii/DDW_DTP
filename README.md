@@ -1,4 +1,15 @@
 # 🌱 Predicting Food Waste By Multiple Linear Regression
+---
+
+## Table of Contents
+- [Project Overview](#-project-overview)
+- [Problem Statement](#-problem-statement)
+- [Project Components](#-project-components)
+- [Peer Contribution](#-peer-contribution)
+- [Project Structure](#️-project-structure)
+- [Data Sources](#-data-sources)
+- [Final Notes](#-final-notes)
+---
 
 ## 📌 Project Overview
 

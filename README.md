@@ -83,10 +83,23 @@ This repository is organized by component to reflect the interdisciplinary natur
 │   └── library.py
 │   └── README.md
 ```
+---
+
+
+## 📄 Key Files
+
+- 🎞️ SS Presentation Slide: [`/SS/DTP_Social_Science_Group4_SC11.pdf`](./SS/DTP_Social_Science_Group4_SC11.pdf)
+- 📊 MU Excel Model: [`/MU/MU_DDW_SC11_Grp4.xlsx`](./MU/MU_DDW_SC11_Grp4.xlsx)
+- 📄 MU Report: [`/MU/MU_DDW_SC11_Grp4.pdf`](./MU/MU_DDW_SC11_Grp4.pdf)
+- 🧠 DDW Notebook: [`/DDW/Project_Template.ipynb`](./DDW/Project_Template.ipynb)
+- 🌐 [DDW Web App Instructions »](./DDW/README.md)
+---
+
 
 ## 📂 Data Sources
 
 - [Food Waste Data in Restaurant](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant)
+---
 
 ## 🏁 Final Notes
 

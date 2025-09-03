@@ -19,7 +19,7 @@ This project is part of the **Design Thinking Project III (DTP III)** at the Sin
 - `10.022 Modelling Uncertainty (MU)`
 - `02.003 Social Science (SS)`
 
-Our goal is to model and understand the **carbon footprint associated with food waste**, particularly within the F&B sector. Using both Excel and Python, we built predictive models that are grounded in both **statistical evidence** and **social context**. We adopted the **Double Diamond Design Thinking framework** throughout this project (Discover → Define → Develop → Deliver).
+Our goal is to model and understand the **food waste**, particularly within the F&B sector. Using both Excel and Python, we built predictive models that are grounded in both **statistical evidence** and **social context**. We adopted the **Double Diamond Design Thinking framework** throughout this project (Discover → Define → Develop → Deliver).
 
 ![Double Diamond Design Thinking framework](./image/Double_Diamond_Design_Thinking.png)
 ---

@@ -4,10 +4,10 @@ import numpy as np
 from math import sqrt
 
 # === Import Custom Modules ===
-from utils.SplitData import split_data
-from utils.GrandientDescent import build_model_linreg, predict_linreg
-from utils.GradientDescentUtils import get_features_targets, normalize_z
-from utils.EvaluationModelUtils import (
+from notebooks.utils.SplitData import split_data
+from notebooks.utils.GrandientDescent import build_model_linreg, predict_linreg
+from notebooks.utils.GradientDescentUtils import get_features_targets, normalize_z
+from notebooks.utils.EvaluationModelUtils import (
     r2_score, mean_squared_error, adjusted_r2_score, mean_absolute_error
 )
 

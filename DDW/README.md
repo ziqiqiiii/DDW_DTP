@@ -53,15 +53,15 @@ python -m pipenv install
 ```
 
 3. 
-``` bash
-python -m pipenv shell
-```
-or 
-``` bash
-python -m pipenv run
-```
+    ``` bash
+    python -m pipenv shell
+    ```
+    or 
+    ``` bash
+    python -m pipenv run
+    ```
 
-2. 
+4. 
 ``` bash
 streamlit run Home.py
 ```

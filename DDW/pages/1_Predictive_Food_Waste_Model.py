@@ -2,11 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from utils.Utils import get_column_options
-from DDW.streamlit.library import predict_food_waste
+from library import predict_food_waste
 
 st.set_page_config(page_title="Food Waste Predictor", page_icon="📈")
 
-url = './datasets/food_wastage_data.csv'
+url = '../datasets/food_wastage_data.csv'
 independent_variables = ['Type of Food', 'Event Type', 'Preparation Method', 'Pricing', 'Geographical Location', 'Quantity of Food']
 options = get_column_options(url)
 

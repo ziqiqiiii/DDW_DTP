@@ -4,15 +4,15 @@ import numpy as np
 from math import sqrt
 
 # === Import Custom Modules ===
-from notebooks.utils.SplitData import split_data
-from notebooks.utils.GrandientDescent import build_model_linreg, predict_linreg
-from notebooks.utils.GradientDescentUtils import get_features_targets, normalize_z
-from notebooks.utils.EvaluationModelUtils import (
+from utils.SplitData import split_data
+from utils.GrandientDescent import build_model_linreg, predict_linreg
+from utils.GradientDescentUtils import get_features_targets, normalize_z
+from utils.EvaluationModelUtils import (
     r2_score, mean_squared_error, adjusted_r2_score, mean_absolute_error
 )
 
 # === Load Data ===
-url = './datasets/food_wastage_data.csv'
+url = '../datasets/food_wastage_data.csv'
 df = pd.read_csv(url)
 df.drop_duplicates(inplace=True)
 

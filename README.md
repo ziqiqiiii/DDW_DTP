@@ -65,13 +65,11 @@ This repository is organized by component to reflect the interdisciplinary natur
 ├── /MU/
 │   └── regression_model.xlsx
 ├── /DDW/
-│   ├── /notebooks/ # Jupyter notebooks
-│   │   └── Project Template.ipynb
-│       └── /utils/
-│   └── /streamlit/ # Streamlit app + DDW README
-│       ├── Home.py
-│       ├── library.py
-│       ├── README.md
+│   └── Project Template.ipynb
+│   └── /utils/
+│   └── Home.py
+│   └── library.py
+│   └── README.md
 
 
 ## 📂 Data Sources

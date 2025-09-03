@@ -93,13 +93,11 @@ This repository is organized by component to reflect the interdisciplinary natur
 - 📄 MU Report: [`/MU/MU_DDW_SC11_Grp4.pdf`](./MU/MU_DDW_SC11_Grp4.pdf)
 - 🧠 DDW Notebook: [`/DDW/Project_Template.ipynb`](./DDW/Project_Template.ipynb)
 - 🌐 [DDW Web App Instructions »](./DDW/README.md)
----
 
 
 ## 📂 Data Sources
 
 - [Food Waste Data in Restaurant](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant)
----
 
 ## 🏁 Final Notes
 

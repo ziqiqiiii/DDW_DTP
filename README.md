@@ -1,5 +1,4 @@
 # 🌱 Ecolet
----
 Ecolet, a Multiple Linear Regression model to predict food waste
 
 ---

@@ -1,6 +1,8 @@
-# 🌱 Predicting Food Waste By Multiple Linear Regression
+# 🌱 Ecolet
 ---
+Ecolet, a Multiple Linear Regression model to predict food waste
 
+---
 ## Table of Contents
 - [Project Overview](#-project-overview)
 - [Problem Statement](#-problem-statement)
